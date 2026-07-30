@@ -109,7 +109,7 @@ fn app() -> Html {
     html! {
         <div>
             <div class="controls-container">
-                <h2 style="margin: 0 15px 0 0;"> { "DataDex" } </h2>
+                <h2 style="margin: 0 15px 0 0;"> { "MasterDex" } </h2>
                 
                 <input type="text" placeholder="Chercher un nom..." oninput={on_name_input} />
                 
