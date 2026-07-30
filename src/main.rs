@@ -16,7 +16,8 @@ fn app() -> Html {
     let search_location = use_state(|| String::new());
     
     // On initialise directement avec les valeurs par défaut des menus
-    let search_type = use_state(|| String::from("Tous"));
+    let search_type_1 = use_state(|| String::from("Tous"));
+    let search_type_2 = use_state(|| String::from("Tous"));
     let search_region = use_state(|| String::from("Toutes"));
     let search_category = use_state(|| String::from("Toutes"));
 
@@ -46,11 +47,19 @@ fn app() -> Html {
         })
     };
 
-    let on_type_change = {
-        let search_type = search_type.clone();
+    let on_type_1_change = {
+        let search_type_1 = search_type_1.clone();
         Callback::from(move |e: Event| {
             let select: HtmlSelectElement = e.target_unchecked_into();
-            search_type.set(select.value());
+            search_type_1.set(select.value());
+        })
+    };
+
+    let on_type_2_change = {
+        let search_type_2 = search_type_2.clone();
+        Callback::from(move |e: Event| {
+            let select: HtmlSelectElement = e.target_unchecked_into();
+            search_type_2.set(select.value());
         })
     };
     
@@ -92,7 +101,8 @@ fn app() -> Html {
     let filtered_pokemons: Vec<Pokemon> = poke_list.iter().filter(|p| {
         let match_name = search_name.is_empty() || p.name.to_lowercase().contains(&*search_name);
         
-        let match_type = search_type.is_empty() || search_type.as_str() == "Tous" || p.types.iter().any(|t| format!("{:?}", t) == *search_type);
+        let match_type_1 = search_type_1.as_str() == "Tous" || p.types.iter().any(|t| format!("{:?}", t) == *search_type_1);
+        let match_type_2 = search_type_2.as_str() == "Tous" || p.types.iter().any(|t| format!("{:?}", t) == *search_type_2);
             
         let match_region = search_region.is_empty() || search_region.as_str() == "Toutes" || p.region == *search_region;
 
@@ -100,10 +110,11 @@ fn app() -> Html {
 
         let match_category = search_category.is_empty() || search_category.as_str() == "Toutes" || format!("{:?}", p.category) == *search_category;
         
-        match_name && match_type && match_region && match_location && match_category
+        // Le && entre match_type_1 et match_type_2 force le Pokémon à posséder les DEUX types sélectionnés.
+        match_name && match_type_1 && match_type_2 && match_region && match_location && match_category
     }).cloned().collect();
 
-    let all_types = vec!["Tous", "Eau", "Poison", "Insecte", "Plante", "Normal", "Vol", "Electrik", "Roche", "Sol", "Psy", "Fee", "Combat", "Feu", "Glace", "Spectre", "Dragon", "Acier", "Tenebres"];
+    let all_types = vec!["Eau", "Poison", "Insecte", "Plante", "Normal", "Vol", "Electrik", "Roche", "Sol", "Psy", "Fee", "Combat", "Feu", "Glace", "Spectre", "Dragon", "Acier", "Tenebres"];
     let all_categories = vec!["Toutes", "Normal", "Starter", "Legendaire", "Fossile", "Ethologique"];
 
     html! {
@@ -121,9 +132,21 @@ fn app() -> Html {
                     }).collect::<Html>() }
                 </select>
 
-                <select onchange={on_type_change}>
+                // Select Type 1
+                <select onchange={on_type_1_change}>
+                    <option value="Tous" selected={"Tous" == search_type_1.as_str()}>{ "Type 1 (Tous)" }</option>
                     { all_types.iter().map(|t| html! { 
-                        <option value={*t} selected={*t == search_type.as_str()}>
+                        <option value={*t} selected={*t == search_type_1.as_str()}>
+                            { t }
+                        </option> 
+                    }).collect::<Html>() }
+                </select>
+
+                // Select Type 2
+                <select onchange={on_type_2_change}>
+                    <option value="Tous" selected={"Tous" == search_type_2.as_str()}>{ "Type 2 (Tous)" }</option>
+                    { all_types.iter().map(|t| html! { 
+                        <option value={*t} selected={*t == search_type_2.as_str()}>
                             { t }
                         </option> 
                     }).collect::<Html>() }
