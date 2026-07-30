@@ -1,0 +1,108 @@
+:root {
+    /* Thème Sombre Global */
+    --bg-color: #121212;
+    --surface-color: #1e1e1e;
+    --text-main: #e0e0e0;
+    --border-color: #333333;
+
+    /* Couleurs des Catégories */
+    --cat-starter: #4caf50;
+    --cat-legendaire: #ffb300;
+    --cat-fossile: #8d6e63;
+    --cat-ethologique: #26c6da;
+    --cat-normal: #757575;
+
+    /* Couleurs de l'Infrastructure */
+    --badge-location: #3949ab;
+    --badge-type: #d32f2f;
+    --badge-region: #8e24aa;
+}
+
+body {
+    background-color: var(--bg-color);
+    color: var(--text-main);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+}
+
+/* Contrôles (Inputs, Selects, Boutons) */
+.controls-container {
+    background-color: var(--surface-color);
+    padding: 15px;
+    border-bottom: 1px solid var(--border-color);
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+input, select, button {
+    background-color: #2c2c2c;
+    color: var(--text-main);
+    border: 1px solid var(--border-color);
+    border-radius: 4px;
+    padding: 8px;
+    font-size: 14px;
+}
+
+button {
+    cursor: pointer;
+    transition: background-color 0.2s;
+    font-weight: bold;
+}
+
+button:hover { background-color: #444; }
+
+/* Grille des résultats */
+.poke-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    gap: 15px;
+    padding: 20px;
+    list-style-type: none;
+    margin: 0;
+}
+
+.poke-card {
+    background-color: var(--surface-color);
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.poke-name {
+    font-size: 1.3em;
+    font-weight: bold;
+    color: #ffffff;
+    border-bottom: 1px solid var(--border-color);
+    padding-bottom: 5px;
+}
+
+/* Système de Badges */
+.badges {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+}
+
+.badge {
+    padding: 4px 8px;
+    border-radius: 4px;
+    font-size: 0.85em;
+    font-weight: bold;
+    color: #fff;
+}
+
+/* Injection dynamique des classes Rust vers CSS */
+.cat-Starter { background-color: var(--cat-starter); color: #000; }
+.cat-Legendaire { background-color: var(--cat-legendaire); color: #000; }
+.cat-Fossile { background-color: var(--cat-fossile); }
+.cat-Ethologique { background-color: var(--cat-ethologique); color: #000; }
+.cat-Normal { background-color: var(--cat-normal); }
+
+.badge-location { background-color: var(--badge-location); }
+.badge-region { background-color: var(--badge-region); }
+.badge-type { background-color: var(--badge-type); }

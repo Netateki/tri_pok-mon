@@ -107,15 +107,13 @@ fn app() -> Html {
     let all_categories = vec!["Toutes", "Normal", "Starter", "Legendaire", "Fossile", "Ethologique"];
 
     html! {
-        <div style="padding: 20px; font-family: sans-serif;">
-            <h1> { "Moteur de tri Pokémon" } </h1>
-            
-            <div style="margin-bottom: 20px; display: flex; gap: 10px; align-items: center; flex-wrap: wrap;">
+        <div>
+            <div class="controls-container">
+                <h2 style="margin: 0 15px 0 0;"> { "DataDex" } </h2>
                 
-                <input type="text" placeholder="Chercher un nom..." oninput={on_name_input} style="padding: 5px; width: 150px;"/>
+                <input type="text" placeholder="Chercher un nom..." oninput={on_name_input} />
                 
-                // Select Catégorie
-                <select onchange={on_category_change} style="padding: 5px;">
+                <select onchange={on_category_change}>
                     { all_categories.iter().map(|c| html! { 
                         <option value={*c} selected={*c == search_category.as_str()}>
                             { if *c == "Toutes" { "Toutes Catégories" } else { c } }
@@ -123,8 +121,7 @@ fn app() -> Html {
                     }).collect::<Html>() }
                 </select>
 
-                // Select Type
-                <select onchange={on_type_change} style="padding: 5px;">
+                <select onchange={on_type_change}>
                     { all_types.iter().map(|t| html! { 
                         <option value={*t} selected={*t == search_type.as_str()}>
                             { t }
@@ -132,8 +129,7 @@ fn app() -> Html {
                     }).collect::<Html>() }
                 </select>
 
-                // Select Région
-                <select onchange={on_region_change} style="padding: 5px;">
+                <select onchange={on_region_change}>
                     <option value="Toutes" selected={"Toutes" == search_region.as_str()}>{ "Toutes Régions" }</option>
                     {
                         unique_regions.iter().map(|r| {
@@ -146,22 +142,43 @@ fn app() -> Html {
                     }
                 </select>
 
-                <input type="text" placeholder="Chercher un lieu..." list="locations-list" oninput={on_location_input} style="padding: 5px; width: 150px;"/>
+                <input type="text" placeholder="Chercher un lieu..." list="locations-list" oninput={on_location_input} />
                 <datalist id="locations-list">
                     { unique_locations.iter().map(|loc| html! { <option value={loc.clone()} /> }).collect::<Html>() }
                 </datalist>
 
-                <button onclick={sort_alpha} style="padding: 5px;"> { "Trier A-Z" } </button>
-                <button onclick={sort_category} style="padding: 5px;"> { "Trier par Catégorie" } </button>
+                <button onclick={sort_alpha}> { "Trier A-Z" } </button>
+                <button onclick={sort_category}> { "Trier par Catégorie" } </button>
             </div>
 
-            <ul>
+            <ul class="poke-grid">
                 {
                     filtered_pokemons.iter().map(|p| {
                         html! { 
-                            <li style="margin-bottom: 5px;"> 
-                                <strong> { format!("{}", p.name) } </strong> 
-                                { format!(" - {:?} | Région: {} | Types: {:?} | Lieux: {}", p.category, p.region, p.types, p.locations.join(", ")) } 
+                            <li class="poke-card"> 
+                                <div class="poke-name">{ format!("{}", p.name) }</div>
+                                
+                                <div class="badges">
+                                    // Le format Rust génère dynamiquement la classe CSS (ex: "cat-Starter")
+                                    <span class={format!("badge cat-{:?}", p.category)}>
+                                        { format!("{:?}", p.category) }
+                                    </span>
+                                    <span class="badge badge-region">{ format!("{}", p.region) }</span>
+                                    
+                                    {
+                                        p.types.iter().map(|t| html! {
+                                            <span class="badge badge-type">{ format!("{:?}", t) }</span>
+                                        }).collect::<Html>()
+                                    }
+                                </div>
+
+                                <div class="badges">
+                                    {
+                                        p.locations.iter().map(|loc| html! {
+                                            <span class="badge badge-location">{ loc }</span>
+                                        }).collect::<Html>()
+                                    }
+                                </div>
                             </li> 
                         }
                     }).collect::<Html>()
