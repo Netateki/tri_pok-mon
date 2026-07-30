@@ -1,0 +1,105 @@
+Route 1 - Niveau 1 : Ratentif (Normal), Poichigeon (Normal/Vol), Ponchiot (Normal), Nanmeouie (Psy), Victini (Psy/Feu) [Légendaire]
+
+Routes 18 - Niveau 2 : Judokrak (Combat), Karaclée (Combat), Crabicoque (Insecte), Baggiguane (Ténèbres/Combat), Baggaid (Ténèbres/Combat), Nanméouie (Psy)
+Routes 18 - Niveau 1 - Super Canne : Tentacool (Eau/Poison), Viskuse (Eau), Moyade (Eau), Mamanbo (Eau)
+
+Pavonnay - Niveau 1 - Canne : Bargantua (Eau), Tentacool (Eau/Poison), Magicarpe (Eau), Viskuse (Eau)
+
+Chenal 17 - Niveau 1 - Méga Canne : Viskuse (Eau), Moyade (Eau), Mamanbo (Eau), Tentacool (Eau/Poison)
+
+Route 2 - Niveau 1 : Ratentif (Normal), Ponchiot (Normal), Chacripan (Ténèbres), Nanméouie (Psy)
+
+Ranch d'Amaillide - Niveau 2 : Ratentif (Normal), Ponchiot (Normal), Poichigeon (Normal/Vol), Nanméouie (Psy), Zebibron (Électrik), Chinchidou (Normal)
+
+La Forêt d'Empoigne - Niveau 2 : Judokrak (Combat), Karaclée (Combat), Charpenti (Insecte), Poichigeon (Normal/Vol), Tritonde (Eau), Nanméouie (Psy), Vipelierre (Plante) [Starter]
+La Forêt d'Empoigne - Niveau 4 - CS Coupe : Poichigeon (Normal/Vol), Larveyette (Insecte), Doudouvet (Plante), Feuillajou (Plante), Flamajou (Feu), Flotajou (Eau), Nanméouie (Psy), Chenipotte (Insecte), Chlorobulle (Plante), Venipatte (Insecte/Poison), Viridium (Combat/Plante) [Légendaire]
+
+Routes 3 - Niveau 2 : Ratentif (Normal), Ponchiot (Normal), Poichigeon (Normal/Vol), Chacripan (Ténèbres), Nanméouie (Psy), Zebibron (Électrik)
+
+Vestiges du rêve - Niveau 1 : Ratentif (Normal), Chacripan (Ténèbres), Nanméouie (Psy), Munna (Psy)
+
+Veine Souterraine - Niveau 1 : Nodulithe (Roche), Chovsourir (Vol/Psy), Nosferapti (Poison/Vol), Rototaupe (Sol), Demeteros (Sol/Vol) [Légendaire]
+Veine Souterraine - Niveau 1 - CS Éclate-Roc : Fermite (Acier/Insecte), Sapereau (Normal), Limonde (Eau/Sol), Gringolem (Roche/Sol)
+
+Ondes-sur-Mer - Niveau 1 - Super Canne : Viskuse (Eau), Mamanbo (Eau), Tentacool (Eau/Poison), Couaneton (Eau/Vol)
+
+Routes 19 & 20 - Niveau 1 : Ratentif (Normal), Chacripan (Ténèbres), Poichigeon (Normal/Vol), Nanmeouie (Psy)
+
+Route 4 - Niveau 2 : Mascaiman (Sol/Ténèbres), Darumarond (Feu), Baggiguane (Ténèbres/Combat), Crabicoque (Insecte), Maracachi (Plante), Cryptéro (Plante/Vol), Gruikui (Feu) [Starter]
+
+Désert Délassant - Niveau 2 : Mascaiman (Sol/Ténèbres), Darumarond (Feu), Maracachi (Plante), Leopardus (Ténèbres), Baggaid (Ténèbres/Combat), Cryptéro (Plante/Vol)
+Désert Délassant - Niveau 2 - CS Éclate-Roc : Crabicoque (Insecte), Carabing (Insecte), Tutafeh (Spectre), Leopardus (Ténèbres), Tic (Insecte), Darumarond (Feu)
+Désert Délassant - Niveau 1 - CS Force : Tutankafer (Spectre), Escroco (Sol/Ténèbres), Cryptéro (Plante/Vol), Baggaid (Ténèbres/Combat)
+
+Routes 5 & 16 - Niveau 3 : Miamiasme (Poison), Scrutella (Psy), Nucleos (Psy), Chinchidou (Normal), Leopardus (Ténèbres), Nanméouie (Psy), Emolga (Électrik/Vol), Pashmilla (Normal)
+
+Pont Yoneuve - Niveau 1 : Couaneton (Eau/Vol), Lakmecygne (Eau/Vol), Etourvol (Normal/Vol), Colombeau (Normal/Vol)
+
+Route 6 - Niveau 3 : Trompignon (Plante/Poison), Colombeau (Normal/Vol), Couverdure (Plante/Insecte), Sorbébé (Glace), Nanméouie (Psy), Emolga (Électrik/Vol), Deflaisan (Normal/Vol), Manternel (Plante/Insecte)
+
+Grotte Electrolithe - Niveau 2 : Nodulithe (Roche), Statitik (Électrik), Tic (Insecte), Grindur (Sol/Acier), Géolithe (Roche), Anchwatt (Électrik), Fulguris (Électrik/Vol) [Légendaire]
+
+Grotte Parsemille - Niveau 2 : Nosferapti (Poison/Vol), Nodulithe (Roche), Géolithe (Roche), Chovsourir (Vol/Psy), Coupenotte (Dragon), Rototaupe (Sol), Cobaltium (Acier/Combat) [Légendaire]
+
+Parc Safari - Niveau 4 : Sapereau (Normal), Etourmi (Normal/Vol), Chenipotte (Insecte), Excavarenne (Sol), Couverdure (Plante), Etourvol (Normal/Vol), Blindalys (Insecte), Armulys (Insecte), Pachirisu (Électrik), Pijako (Normal/Vol)
+Parc Safari - Niveau 3 : Zebibron (Électrik), Judokrak (Combat), Karaclée (Combat), Aflamanoir (Feu), Zeblitz (Électrik), Galvaran (Électrik), Furaiglon (Normal/Vol), Vostourno (Ténèbres/Vol)
+Parc Safari - Niveau 2 : Limonde (Eau/Sol), Miamiasme (Poison), Cryptéro (Plante/Vol), Nucleos (Psy), Meios (Psy), Fermite (Acier/Insecte)
+Parc Safari - Niveau 1 - Surf : Viskuse (Eau), Bargantua (Eau), Tritonde (Eau), Tentacool (Eau/Poison)
+
+Route 7 - Niveau 3 : Colombeau (Normal/Vol), Polarhume (Glace), Miradar (Normal/Vol), Zeblitz (Électrik), Trompignon (Plante/Poison), Nanmeouie (Psy), Emolga (Électrik/Vol), Deflaisan (Normal/Vol)
+
+Tour des Cieux - Niveau 1 : Funécire (Spectre/Feu), Lewsor (Psy), Tutafeh (Spectre), Tic (Insecte), Boreas (Vol) [Légendaire]
+
+Mont Foré - Niveau 2 : Geolithe (Roche), Ouvrifier (Insecte), Chovsourir (Vol/Psy), Polarhume (Glace), Hexagel (Glace), Rototaupe (Sol), Genesect (Insecte/Acier) [Légendaire]
+
+Flocombe - Niveau 1 - Méga Canne : Batracné (Eau/Combat), Escargaume (Insecte), Limonde (Eau/Sol), Crapustule (Eau/Combat)
+
+Route 8 - Niveau 1 : Batracné (Eau/Combat), Escargaume (Insecte), Limonde (Eau/Sol), Crapustule (Eau/Combat), Moustillon (Eau) [Starter]
+
+Tour Dragospire - Niveau 4 : Colombeau (Normal/Vol), Kungfouine (Combat), Sorbébé (Glace), Polarhume (Glace), Sorboul (Glace), Nanméouie (Psy), Emolga (Électrik/Vol), Deflaisan (Normal/Vol), Drakkarmin (Dragon/Combat), Polagriffe (Glace/Combat), Reshiram (Dragon/Feu) [Légendaire]
+Tour Dragospire - Niveau 1 : Gringolem (Roche/Sol), Kungfouine (Combat), Sorboul (Glace), Drakkarmin (Dragon/Combat), Zekrom (Dragon/Électrik) [Légendaire]
+
+Tourbière Flocombe - Niveau 1 : Batracné (Eau/Combat), Escargaume (Insecte), Limonde (Eau/Sol), Crapustule (Eau/Combat), Keldeo (Eau/Combat) [Légendaire]
+
+Route 9 - Niveau 4 : Mesmerella (Psy), Chinchidou (Normal), Miasmax (Poison), Scalpion (Insecte), Leopardus (Ténèbres), Meios (Psy), Emolga (Électrik/Vol), Pashmilla (Normal), Siderella (Psy), Symbios (Insecte/Fée)
+
+Antre d'Entraînement - Niveau 4 : Géolithe (Roche), Chovsourir (Vol/Psy), Minotaupe (Sol), Excavarenne (Sol)
+
+Route 10 - Niveau 4 : Judokrak (Combat), Karaclée (Combat), Ponchien (Normal), Furaiglon (Normal/Vol), Vostourno (Ténèbres/Vol), Trompignon (Plante/Poison), Emolga (Électrik/Vol), Frison (Glace), Gaulet (Plante), Mastouffe (Normal)
+
+Route 11 - Niveau 4 : Carabing (Insecte), Scalpion (Insecte), Nanméouie (Psy), Furaiglon (Normal/Vol), Vostourno (Ténèbres/Vol), Gaulet (Plante), Scalproie (Insecte), Emolga (Électrik/Vol), Gueriaigle (Normal/Vol), Vaututrice (Ténèbres/Vol)
+
+Pont du Hameau - Niveau 2 : Furaiglon (Normal/Vol), Vostourno (Ténèbres/Vol), Nanméouie (Psy), Emolga (Électrik/Vol), Gueriaigle (Normal/Vol), Vaututrice (Ténèbres/Vol)
+
+Route 12 - Niveau 1 : Colombeau (Normal/Vol), Deflaisan (Normal/Vol), Nanmeouie (Psy), Emolga (Électrik/Vol)
+
+Route Victoire - Niveau 4 : Chovsourir (Vol/Psy), Geolithe (Roche), Kungfouine (Combat), Aflamanoir (Feu), Vostourno (Ténèbres/Vol), Furaiglon (Normal/Vol), Fermite (Acier/Insecte), Solochi (Dragon), Minotaupe (Sol), Incisache (Dragon), Terrakium (Roche/Combat) [Légendaire]
+
+Papeloa - Niveau 1 - Canne : Tritonde (Eau), Bargantua (Eau), Viskuse (Eau), Moyade (Eau)
+
+Route 21 - Niveau 1 - Surf : Bargantua (Eau), Viskuse (Eau/Spectre), Moyade (Eau), Mamanbo (Eau)
+
+Route 22 - Niveau 1 : Kungfouine (Combat), Gaulet (Plante), Emolga (Électrik/Vol), Nanmeouie (Psy), Evoli (Normal) [Starter]
+
+Grotte Cyclopéenne - Niveau 1 : Colombeau (Normal/Vol), Miradar (Normal/Vol), Nanmeouie (Psy), Minotaupe (Sol)
+Grotte Cyclopéenne - Niveau 1 - CS Éclate-Roc : Géolithe (Roche), Drakkarmin (Dragon/Combat), Hexagel (Glace), Symbios (Insecte/Fée), Kyurem (Dragon/Glace) [Légendaire]
+
+Route 13 - Niveau 1 : Colombeau (Normal/Vol), Miradar (Normal/Vol), Nanméouie (Psy), Emolga (Électrik/Vol)
+
+Routes 14 & 15 - Niveau 2 : Karaclée (Combat), Judokrak (Combat), Nanméouie (Psy), Miradar (Normal/Vol), Kungfouine (Combat), Emolga (Électrik/Vol), Neitram (Psy), Shaofouine (Combat)
+
+Autel Abondance - Niveau 1 : Doudouvet (Plante), Nanméouie (Psy), Manternel (Plante), Pashmilla (Normal), Vivaldaim (Normal/Plante) [Starter], Meloetta (Normal/Psy) [Légendaire]
+
+Mont Renenvers - Niveau 1 : Nodulithe (Roche), Rototaupe (Sol), Scobolide (Insecte), Mascaiman (Sol/Ténèbres)
+
+Biome Savane - Niveau 4 : Mimitoss (Insecte/Poison), Mascaïman (Sol/Ténèbres), Zebibron (Électrik), Kraknoix (Sol), Furaiglon (Normal/Vol), Vostourno (Ténèbres/Vol), Rhinocorne (Sol/Roche), Girafarig (Normal/Psy), Tauros (Normal), Léboulérou (Roche/Plante)
+Biome Savane - Niveau 2 - CS Éclate-Roc : Triopikeur-A (Sol/Acier), Ramoloss-G (Psy), Granbull (Fée), Mesmerella (Psy), Leveinard (Normal), Magmar (Feu)
+
+Biome Canyon - Niveau 4 : Rototaupe (Sol), Chinchidou (Normal), Baggiguane (Ténèbres/Combat), Gringolem (Roche/Sol), Tylton (Normal/Vol), Coupenotte (Dragon), Insécateur (Insecte/Vol), Météno (Roche/Vol), Airmure (Acier/Vol), Theffroi (Spectre)
+Biome Canyon - Niveau 3 - CS Force : Magnéti (Électrik/Acier), Statitik (Électrik), Rototaupe (Sol), Anchwatt (Électrik), Posipi (Électrik), Négapi (Électrik), Météno (Roche/Vol), Elektek (Électrik)
+
+Biome Côtier - Niveau 4 : Noeufnoeuf (Plante/Psy), Mystherbe (Plante/Poison), Picassaut (Normal/Vol), Tadmorv-A (Poison/Ténèbres), Scrutella (Psy), Psystigri (Psy), Doudouvet (Plante), Passerouge (Normal/Vol), Ramoloss-G (Psy), Parecool (Normal)
+Biome Côtier - Niveau 3 - Surf : Tentacool (Eau/Poison), Ecayon (Eau), Sepiatop (Ténèbres/Psy), Lovdisc (Eau), Araqua (Eau/Insecte), Hypotrempe (Eau), Mamanbo (Eau), Denticrisse (Eau/Psy)
+
+Biome Polaire - Niveau 3 : Polarhume (Glace), Nucléos (Psy), Chinchidou (Normal), Otaria (Eau), Goupix-A (Glace), Sabelette-A (Glace/Acier), Blizzi (Glace/Plante), Crabagarre (Combat/Glace)
+Biome Polaire - Niveau 3 - Surf : Luminéon (Eau), Hypocéan (Eau), Lamperoie (Électrik), Lamantine (Eau/Glace), Meios (Psy), Crémy (Fée), Polagriffe (Glace/Combat), Lokhlass (Eau/Glace)

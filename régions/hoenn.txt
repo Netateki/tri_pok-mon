@@ -1,0 +1,82 @@
+Route 101 - Niveau 1 : Zigzaton (Normal), Medhyena (Ténèbres), Chenipotte (Insecte), Nirondelle (Normal/Vol)
+
+Route 102 - Niveau 2 : Medhyena (Ténèbres), Granipiot (Plante), Zigzaton (Normal), Chenipotte (Insecte), Nenupiot (Eau/Plante), Arakdo (Insecte/Eau), Gobou (Eau) [Starter]
+Route 102 - Niveau 1 - Canne : Marill (Eau/Fée), Poissirène (Eau), Magicarpe (Eau), Ecrapince (Eau)
+
+Route 103 - Niveau 1 : Medhyena (Ténèbres), Zigzaton (Normal), Goelise (Eau/Vol), Chenipotte (Insecte)
+Route 103 - Niveau 1 - Surf : Hypotrempe (Eau), Magicarpe (Eau), Wailmer (Eau), Carvanha (Eau/Ténèbres)
+
+Route 104 - Niveau 2 : Goelise (Eau/Vol), Chenipotte (Insecte), Medhyena (Ténèbres), Nirondelle (Normal/Vol), Marill (Eau/Fée), Bekipan (Eau/Vol)
+
+Bois Clémenti - Niveau 3 : Chenipotte (Insecte), Medhyena (Ténèbres), Nirondelle (Normal/Vol), Armulys (Insecte), Blindalys (Insecte), Ningale (Insecte/Sol), Balignon (Plante), Parecool (Normal)
+Bois Clémenti - Niveau 2 - CS Coupe : Balignon (Plante), Parecool (Normal), Papinox (Insecte/Vol), Charmillon (Insecte/Poison), Chapignon (Plante/Combat), Grahyena (Ténèbres)
+
+Route 116 - Niveau 2 : Medhyena (Ténèbres), Skitty (Normal), Chuchmur (Normal), Nirondelle (Normal/Vol), Ningale (Insecte/Sol), Abra (Psy), Tarsal (Psy/Fée) [Starter]
+
+Chenal 105 - Niveau 1 - Super-Canne : Magicarpe (Eau), Wailmer (Eau), Tentacool (Eau/Poison), Goelise (Eau/Vol), Regice (Glace) [Légendaire]
+
+Village Myokara - Niveau 2 - Super-Canne : Magicarpe (Eau), Wailmer (Eau), Tentacool (Eau/Poison), Goelise (Eau/Vol), Bekipan (Eau/Vol), Carvanha (Eau/Ténèbres)
+
+Grotte Granite - Niveau 3 : Nosferapti (Poison/Vol), Racaillou (Roche/Sol), Makuhita (Combat), Mystibule (Acier/Fée), Tarinor (Roche), Tenefix (Ténèbres/Spectre), Galekid (Acier/Roche), Abra (Psy), Deoxys (Psy) [Légendaire]
+
+Chenal 109 - Niveau 2 - Surf : Magicarpe (Eau), Wailmer (Eau), Tentacool (Eau/Poison), Goelise (Eau/Vol), Bekipan (Eau/Vol), Carvanha (Eau/Ténèbres)
+
+Route 110 - Niveau 3 : Medhyena (Ténèbres), Goelise (Eau/Vol), Zigzaton (Normal), Gloupti (Poison), Dynavolt (Électrik), Mystherbe (Plante/Poison), Posipi (Électrik), Negapi (Électrik)
+
+Route 117 - Niveau 2 : Medhyena (Ténèbres), Muciole (Insecte), Lumivole (Insecte), Granipiot (Plante), Mystherbe (Plante/Poison), Roselia (Plante/Poison), Latias (Dragon/Psy) [Légendaire]
+Route 117 - Niveau 1 - Super-Canne : Marill (Eau/Fée), Magicarpe (Eau), Poissirène (Eau), Ecrapince (Eau)
+
+New Lavandia - Niveau 1 : Magneti (Électrik/Acier), Magneton (Électrik/Acier), Voltorbe (Électrik), Electrode (Électrik)
+
+Route 111 - Niveau 1 : Cacnea (Plante), Balbuto (Sol/Psy), Sabelette (Sol), Kraknoix (Sol), Regirock (Roche) [Légendaire]
+Route 111 - Niveau 1 - Canne : Marill (Eau/Fée), Arakdo (Insecte/Eau), Poissirène (Eau), Barloche (Eau/Sol)
+
+Route 112 - Niveau 1 : Machoc (Combat), Chamallot (Feu/Sol), Marill (Eau/Fée), Racaillou (Roche/Sol)
+
+Route 113 - Niveau 1 : Sabelette (Sol), Spinda (Normal), Chartor (Feu), Airmure (Acier/Vol)
+
+Mont Chimnée - Niveau 1 : Spoink (Psy), Machoc (Combat), Chamallot (Feu/Sol), Limagma (Feu), Poussifeu (Feu) [Starter], Jirachi (Acier/Psy) [Légendaire]
+
+Routes 114 & 115 - Niveau 4 : Goelise (Eau/Vol), Nirondelle (Normal/Vol), Arakdo (Insecte/Eau), Grainipiot (Plante), Nenupiot (Eau/Plante), Rondoudou (Normal/Fée), Pifeuil (Plante/Ténèbres), Lombre (Eau/Plante), Tylton (Normal/Vol), Heledelle (Normal/Vol)
+Routes 114 & 115 - Niveau 2 - Surf : Arakdo (Insecte/Eau), Magicarpe (Eau), Poissirène (Eau), Goelise (Eau/Vol), Barloche (Eau/Sol), Marill (Eau/Fée)
+Routes 114 & 115 - Niveau 1 - CS Éclate-Roc : Racaillou (Roche/Sol), Mangriff (Normal), Seviper (Poison), Marill (Eau/Fée)
+
+Route 118 - Niveau 2 : Zigzaton (Normal), Goelise (Eau/Vol), Dynavolt (Électrik), Lineon (Normal), Elecsprint (Électrik), Kecleon (Normal)
+Route 118 - Niveau 2 - Surf : Magicarpe (Eau), Tentacool (Eau/Poison), Bekipan (Eau/Vol), Poissirène (Eau), Carvanha (Eau/Ténèbres), Sharpedo (Eau/Ténèbres)
+
+Route 119 - Niveau 2 : Mystherbe (Plante/Poison), Nirondelle (Normal/Vol), Zigzaton (Normal), Lineon (Normal), Tropius (Plante/Vol), Kecleon (Normal), Arcko (Plante) [Starter]
+Route 119 - Niveau 2 - Surf : Tentacool (Eau/Poison), Goelise (Eau/Vol), Bekipan (Eau/Vol), Magicarpe (Eau), Carvanha (Eau/Ténèbres), Barpau (Eau)
+
+Site Météores - Niveau 1 : Nosferapti (Poison/Vol), Solaroc (Roche/Psy), Seleroc (Roche/Psy), Nosferalto (Poison/Vol)
+Site Météores - Niveau 1 - Canne : Magicarpe (Eau), Poissirène (Eau), Barloche (Eau/Sol), Nosferapti (Poison/Vol)
+Site Météores - Niveau 4 - Surf : Magicarpe (Eau), Nosferapti (Poison/Vol), Poissirène (Eau), Nosferalto (Poison/Vol), Solaroc (Roche/Psy), Seleroc (Roche/Psy), Barloche (Eau/Sol), Marill (Eau/Fée), Barbicha (Eau/Sol), Draby (Dragon)
+
+Route 120 - Niveau 3 : Grainipiot (Plante), Medhyena (Ténèbres), Zigzaton (Normal), Mystherbe (Plante/Poison), Grahyena (Ténèbres), Lineon (Normal), Absol (Ténèbres), Kecleon (Normal), Evoli (Normal) [Starter], Registeel (Acier) [Légendaire]
+Route 120 - Niveau 1 - Super-Canne : Marill (Eau/Fée), Poissirène (Eau), Magicarpe (Eau), Barloche (Eau/Sol)
+
+Route 121 - Niveau 2 : Goelise (Eau/Vol), Mystherbe (Plante/Poison), Medhyena (Ténèbres), Grahyena (Ténèbres), Ortide (Plante/Poison), Kecleon (Normal), Latios (Dragon/Psy) [Légendaire]
+Route 121 - Niveau 1 - Surf : Bekipan (Eau/Vol), Tentacool (Eau/Poison), Magicarpe (Eau), Wailmer (Eau)
+Route 121 - Niveau 2 - CS Éclate-Roc : Scorplane (Sol/Vol), Polichombr (Spectre), Lineon (Normal), Skelenox (Spectre), Caratroc (Insecte/Roche), Scarhino (Insecte/Combat)
+
+Chenal 124 - Niveau 4 - Méga-Canne : Goelise (Eau/Vol), Tentacool (Eau/Poison), Magicarpe (Eau), Carvanha (Eau/Ténèbres), Wailmer (Eau), Bekipan (Eau/Vol), Loupio (Eau/Électrik), Coquiperl (Eau), Sharpedo (Eau/Ténèbres), Relicanth (Eau/Roche)
+
+Mont Memoria - Niveau 2 : Skelenox (Spectre), Polichombr (Spectre), Goupix (Feu), Goelise (Eau/Vol), Meditikka (Combat/Psy), Eoko (Psy)
+
+Parc Safari - Niveau 4 - Surf : Magicarpe (Eau), Poissirène (Eau), Marill (Eau/Fée), Psykokwak (Eau), Poissoroy (Eau), Axoloto (Eau/Sol), Remoraid (Eau), Maraiste (Eau/Sol), Octillery (Eau), Akwakwak (Eau)
+Parc Safari - Niveau 4 (Zone 1) : Mystherbe (Plante/Poison), Doduo (Normal/Vol), Racaillou (Roche/Sol), Pikachu (Électrik), Ortide (Plante/Poison), Scarabrute (Insecte), Rhinocorne (Sol/Roche), Girafarig (Normal/Psy), Scarhino (Insecte/Combat), Dodrio (Normal/Vol)
+Parc Safari - Niveau 4 (Zone 2) : Tournegrin (Plante), Hoothoot (Normal/Vol), Coxy (Insecte/Vol), Teddiursa (Normal), Pomdepik (Insecte), Wattouat (Électrik), Cerfrousse (Normal), Snubull (Normal), Scorplane (Sol/Vol), Phanpy (Sol)
+
+Chenal 128 - Niveau 4 - Méga-Canne : Goelise (Eau/Vol), Tentacool (Eau/Poison), Magicarpe (Eau), Bekipan (Eau/Vol), Wailmer (Eau), Coquiperl (Eau), Lovdisc (Eau), Loupio (Eau/Électrik), Corayon (Eau/Roche), Relicanth (Eau/Roche)
+
+Grotte Tréfonds - Niveau 2 - Surf : Nosferapti (Poison/Vol), Tentacool (Eau/Poison), Magicarpe (Eau), Wailmer (Eau), Obalie (Glace/Eau), Nosferalto (Poison/Vol), Kyogre (Eau) [Légendaire]
+Grotte Tréfonds - Niveau 1 : Obalie (Glace/Eau), Nosferapti (Poison/Vol), Stalgamin (Glace), Nosferalto (Poison/Vol), Groudon (Sol) [Légendaire]
+
+Chenaux 129 & 132 - Niveau 3 - Surf : Goelise (Eau/Vol), Tentacool (Eau/Poison), Magicarpe (Eau), Hypotrempe (Eau), Bekipan (Eau/Vol), Wailmer (Eau), Wailord (Eau), Sharpedo (Eau/Ténèbres)
+
+Pilier Céleste - Niveau 1 : Tenefix (Ténèbres/Spectre), Nosferalto (Poison/Vol), Kaorine (Sol/Psy), Branette (Spectre)
+Pilier Céleste - Niveau 2 : Tenefix (Ténèbres/Spectre), Kaorine (Sol/Psy), Branette (Spectre), Altaria (Dragon/Vol), Nosferalto (Poison/Vol), Teraclope (Spectre), Rayquaza (Dragon/Vol) [Légendaire]
+
+Route Victoire - Niveau 4 : Nosferapti (Poison/Vol), Chuchmur (Normal), Makuhita (Combat), Galekid (Acier/Roche), Mysdibule (Acier/Fée), Nosferalto (Poison/Vol), Meditikka (Combat/Psy), Hariyama (Combat), Ramboum (Normal), Galegon (Acier/Roche)
+Route Victoire - Niveau 1 - Méga-Canne : Magicarpe (Eau), Poissirène (Eau), Barloche (Eau/Sol), Barbicha (Eau/Sol)
+Route Victoire - Niveau 2 - CS Éclate-Roc : Gravalanch (Roche/Sol), Hariyama (Combat), Electrode (Électrik), Grahyena (Ténèbres), Charmina (Combat/Psy), Teraclope (Spectre)
+Route Victoire - Niveau 2 - CS Force : Nosferalto (Poison/Vol), Mysdibule (Acier/Fée), Tenefix (Ténèbres/Spectre), Ramboum (Normal), Galegon (Acier/Roche), Charmina (Combat/Psy)

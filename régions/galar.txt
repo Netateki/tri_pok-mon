@@ -1,0 +1,81 @@
+Route 1 - Niveau 1 : Minisange (Normal/Vol), Moumouton (Normal), Goupilou (Ténèbres), Hoothoot (Normal/Vol)
+
+Forêt de Sleepwood - Niveau 1 : Rongourmand (Normal), Minisange (Normal/Vol), Larvadar (Insecte), Larvibule (Insecte)
+Forêt de Sleepwood - Niveau 2 - CS Coupe : Munna (Psy), Chrysapile (Insecte), Coléodôme (Insecte/Électrik), Rongrigou (Normal), Smogogo-G (Fée/Acier), Corvaillus (Acier/Vol), Zacian (Fée) [Légendaire], Zamazenta (Combat) [Légendaire]
+
+Plaine Granfroy - Niveau 3 : Moumouton (Normal), Stalgamin (Glace), Darumarond-G (Feu), Blizzi (Glace/Plante), Marcacrin (Glace/Sol), M.Mime-G (Glace/Psy), Bibichut (Spectre), Grimalin (Spectre/Fée), Sylveroy (Plante/Psy) [Légendaire]
+Plaine Granfroy - Niveau 2 - CS Éclate-Roc : Moumouflon (Normal/Vol), Oniglali (Spectre), Farfuret (Ténèbres/Glace), Blizzaroi (Glace/Plante), Cadoizo (Glace/Vol), Polagriffe (Glace/Combat), Blizzeval (Glace) [Légendaire], Spectreval (Spectre) [Légendaire]
+
+Repos du Géant - Niveau 4 : Rongourmand (Normal), Zigzaton-G (Ténèbres/Normal), Archeomire (Acier/Psy), Charpenti (Insecte), Balbuto (Sol/Psy), Charibari (Acier), Ponyta-G (Psy), Tylton (Normal/Vol), Theffroi (Roche/Ténèbres), Dolman (Normal/Combat)
+
+Lac Poké Ball - Niveau 3 : Rongrigou (Normal), Fulgudog (Électrik), Blancoton (Plante), Corvaillus (Acier/Vol), M.Glaquette (Glace), Ixon (Normal), Wimessir (Psy/Spectre), Morpeko (Électrik/Ténèbres), Artikodin-G (Psy/Vol) [Légendaire]
+
+Croisée Trois-Voies - Niveau 3 : Charbi (Feu), Marcacrin (Glace/Sol), Rototaupe (Sol), Sapereau (Normal), Archeomire (Acier/Psy), Embrylex (Roche/Sol), Simularbre (Roche), Tylton (Normal/Vol), Regieleki (Électrik) [Légendaire], Regidraco (Dragon) [Légendaire]
+Croisée Trois-Voies - Niveau 4 - Surf : Wailmer (Eau), Leviator (Eau/Vol), Lanturn (Eau/Électrik), Krakos (Eau/Roche), M.Mime-G (Glace/Psy), Polagriffe (Glace/Combat), Nigosier (Eau), Wattapik (Eau/Électrik), Bekaglacon (Glace), Lokhlass (Eau/Glace)
+
+Route 2 - Niveau 3 : Rongourmand (Normal), Minisange (Normal/Vol), Goupilou (Ténèbres), Voltoutou (Électrik), Grainipiot (Plante), Nénupiot (Eau/Plante), Larvadar (Insecte), Khélocrok (Eau/Ténèbres), Larméléon (Eau) [Starter]
+Route 2 - Niveau 1 - Canne : Magicarpe (Eau), Khélocrok (Eau/Ténèbres), Embrochet (Eau), Poissirène (Eau)
+Route 2 - Niveau 1 - Surf : Torgamord (Eau/Insecte), Embrochet (Eau), Hastacuda (Eau/Psy), Léviator (Eau/Vol)
+
+Plaine Verdoyante - Niveau 1 : Mystherbe (Plante/Poison), Sapereau (Normal), Apitrini (Insecte/Vol), Croquine (Plante)
+
+Route 3 - Niveau 4 : Zigzaton-G (Ténèbres/Normal), Tournicoton (Plante), Rongourmand (Normal), Ceribou (Plante), Goupix (Feu), Caninos (Feu), Grainipiot (Plante), Nénupiot (Eau/Plante), Charbi (Feu), Grillepattes (Insecte/Feu), Flambino (Feu) [Starter]
+
+Mine de Galar - Niveau 1 : Charbi (Feu), Nodulithe (Roche), Charpenti (Insecte), Rototaupe (Sol)
+
+Route 4 - Niveau 2 : Moumouton (Normal), Voltoutou (Électrik), Pikachu (Électrik), Pitrouille (Plante/Spectre), Miaouss-G (Acier), Crèmy (Fée)
+
+Lac Coupenotte - Niveau 2 - Côté Est : Papilusion (Insecte/Vol), Xatu (Psy/Vol), Bekipan (Eau/Vol), Cochignon (Glace/Sol), Archeodong (Acier/Psy), Miasmax (Poison)
+Lac Coupenotte - Niveau 1 - Super-Canne : Kokiyas (Eau), Poissirène (Eau), Magicarpe (Eau), Froussardine (Eau)
+Lac Coupenotte - Niveau 2 - Côté Ouest : Krabboss (Eau), Bekipan (Eau/Vol), Batracné (Eau/Combat), Torgamord (Eau/Insecte), Maraiste (Eau/Sol), Excavarenne (Normal/Sol)
+Lac Coupenotte - Niveau 1 - Surf : Viskuse (Eau), Magicarpe (Eau), Loupio (Eau/Électrik), Remoraid (Eau)
+
+Plaines Sauvages - Bois de Clairjour - Niveau 2 : Grainipiot (Plante), Rozbouton (Plante/Poison), Sapereau (Normal), Croquine (Plante), Hoothoot (Normal/Vol), Pifeuil (Plante/Ténèbres)
+Plaines Sauvages - Bois de Clairjour - Niveau 1 - CS Éclate-Roc : Chelours (Roche), Crapustule (Eau/Combat), Astronelle (Roche), Pandarbare (Normal/Combat)
+Plaines Sauvages - Tour en Ruines - Niveau 2 : Chovsourir (Vol/Dragon), Lixy (Électrik), Gringolem (Sol/Spectre), Funécire (Spectre/Feu), Fantominus (Spectre/Poison), Skélénox (Spectre), Electhor-G (Combat/Vol) [Légendaire]
+Plaines Sauvages - Siège du Géant - Niveau 2 : Caninos (Feu), Goupix (Feu), Lombre (Eau/Plante), Pifeuil (Plante/Ténèbres), Stalgamin (Glace), Crabicoque (Insecte/Roche)
+Plaines Sauvages - Siège du Géant - Niveau 1 - Canne : Magicarpe (Eau), Khélocrok (Eau/Ténèbres), Embrochet (Eau), Poissirène (Eau)
+Plaines Sauvages - Siège du Géant - Niveau 1 - Méga-Canne : Crustabri (Eau/Glace), Lanturn (Eau/Électrik), Concombaffe (Eau), Léviator (Eau/Vol)
+Plaines Sauvages - Lac Milobellus - Niveau 3 : Statitik (Électrik), Poichigeon (Normal/Vol), Nounourson (Normal/Combat), Larvibule (Insecte), Machoc (Combat), Tritonde (Eau), Goélise (Eau/Vol), Moufouette (Poison/Ténèbres)
+Plaines Sauvages - Lac Milobellus - Niveau 1 - Super-Canne : Ecrapince (Eau), Rémoraid (Eau), Barloche (Eau/Sol), Krabby (Eau)
+Plaines Sauvages - Lac Milobellus - Niveau 1 - CS Éclate-Roc : Leopardus (Ténèbres), Mygavolt (Insecte/Électrik), Corvaillus (Acier/Vol), Colhomard (Eau/Ténèbres)
+
+Route 5 - Niveau 3 : Sucroquin (Fée), Fluvetin (Eau), Grainipiot (Plante), Nénupiot (Eau/Plante), Canarticho-G (Combat), Coléodôme (Insecte/Électrik), Blancoton (Plante), Verpom (Plante), Evoli (Normal) [Starter]
+
+Lac Ouragan - Niveau 3 : Triopikeur (Sol), Embrylex (Roche/Sol), Kaorine (Sol/Psy), Moufouette (Poison/Ténèbres), Limonde-G (Sol/Acier), Corvaillus (Acier/Vol), Berserkatt (Combat), Fantyrm (Spectre/Dragon)
+Lac Ouragan - Niveau 1 - Surf : Demanta (Eau/Vol), Hastacuda (Eau/Psy), Lanturn (Eau/Électrik), Qwilfish (Eau/Poison)
+
+Mine de Galar n°2 - Niveau 2 : Khélocrok (Eau/Ténèbres), Sancoki (Eau), Cradopaud (Poison/Combat), Baggiguane (Ténèbres/Combat), Limonde-G (Sol/Acier), Caratroc (Insecte/Roche)
+Mine de Galar n°2 - Niveau 2 - Super-Canne : Magicarpe (Eau), Khélocrok (Eau/Ténèbres), Barloche (Eau/Sol), Écrapince (Eau), Embrochet (Eau), Torgamord (Eau/Insecte)
+
+Plaine Rocheuse - Niveau 2 : Baggiguane (Ténèbres/Combat), Zigzaton-G (Ténèbres/Normal), Machoc (Combat), Gringolem (Sol/Spectre), Balbuto (Sol/Psy), Charibari (Acier)
+Plaine Rocheuse - Niveau 1 - CS Éclate-Roc : Rongrigou (Normal), Sucreine (Fée), Kaorine (Sol/Psy), Golemastoc (Combat/Eau)
+
+Miroir du Géant - Niveau 3 : Minotaupe (Sol), Tritosor (Normal/Vol), Colombeau (Normal/Vol), Ortide (Plante/Poison), Bombydou (Insecte/Fée), Corayon-G (Eau/Roche), Karaclée (Combat), Judokrak (Combat)
+
+Route 7 - Niveau 3 : Carabing (Insecte), Escargaume (Insecte), Chacripan (Ténèbres), Sepiatop (Ténèbres/Psy), Rongrigou (Normal), Berserkatt (Combat), Morpeko (Électrik/Ténèbres), Roublenard (Ténèbres)
+
+Route 8 - Niveau 4 : Hippopotas (Sol), Gringolem (Sol/Spectre), Nodulithe (Roche), Charpenti (Insecte), Fantominus (Spectre/Poison), Rapion (Poison/Insecte), Scalpion (Ténèbres/Acier), Togedemaru (Électrik/Acier), Dunaja (Dragon/Sol), Hexadron (Insecte)
+Route 8 - Niveau 2 - CS Force : Blizzi (Glace/Plante), Stalgamin (Glace), Cadoizo (Glace/Vol), Darumarond-G (Feu), Farfuret (Ténèbres/Glace), Polarhume (Glace)
+
+Plateau de Kickenham - Niveau 2 : Pitrouille (Plante/Spectre), Qulbutoké (Psy), Simularbre (Roche), Machopeur (Combat), Maracachi (Plante), Psystigri (Psy), Toxizap (Électrik/Poison) [Starter], Ethernatos (Dragon/Poison) [Légendaire]
+
+Route 6 - Niveau 3 : Taupiqueur (Sol), Rapion (Poison/Insecte), Hippopotas (Sol), Maracachi (Plante), Brutalibré (Combat/Vol), Tutafeh-G (Roche/Spectre), Triopikeur (Sol), Dunaja (Dragon/Sol)
+
+Forêt de Lumirinth - Niveau 4 : Sucroquin (Fée), Fluvetin (Eau), Spododo (Plante), Grimalin (Spectre/Fée), Bibichut (Spectre), Ponyta-G (Psy), Théffroi (Roche/Ténèbres), Wimessir (Psy/Spectre), Quartermac (Normal/Psy), Gouroutan (Normal/Psy), Zarude (Ténèbres/Plante) [Légendaire]
+
+Route 9 - Niveau 2 : Goelise (Eau/Vol), Sancoki (Eau), Chacripan (Ténèbres), Poulpaf (Combat), Nigosier (Eau), Wattapik (Eau/Électrik)
+
+Chenal de Smashings - Niveau 2 - Surf : Remoraid (Eau), Qwilfish (Eau/Poison), Demanta (Eau/Vol), Wailmer (Eau), Concombaffe (Eau), Poulpaf (Combat)
+
+Plaine Salutation - Niveau 4 : Larvadar (Insecte), Apitrini (Insecte/Vol), Krabby (Eau), Goelise (Eau/Vol), Pikachu (Électrik), Sepiatop (Ténèbres/Psy), Ramoloss-G (Psy), Miaouss-G (Acier), Poulpaf (Combat), Laporeille (Normal), Wushours (Combat) [Légendaire]
+Plaine Salutation - Niveau 2 - Surf : Goelise (Eau/Vol), Loupio (Eau/Électrik), Magicarpe (Eau), Remoraid (Eau), Demanta (Eau/Vol), Moyade (Eau)
+
+Lande Boldair - Niveau 3 : Pikachu (Électrik), Natu (Psy/Vol), Carabing (Insecte), Escargaume (Insecte), Rapion (Poison/Insecte), Axoloto (Eau/Sol), Scalpion (Ténèbres/Acier), Psystigri (Psy)
+
+Forêt Flexion - Niveau 4 : Ceriflor (Plante), Ortide (Plante/Poison), Lampignon (Plante/Spectre), Papilusion (Insecte/Vol), Rubombelle (Plante/Fée), Banshitrouye (Plante/Spectre), Quartermac (Normal/Psy), Gouroutan (Normal/Psy), Hexadron (Insecte), Verpom (Plante), Ouistempo (Plante) [Starter]
+
+Grotte du Pugilat - Niveau 3 : Khélocrok (Eau/Ténèbres), Miaouss-G (Acier), Nodulithe (Roche), Larvadar (Insecte), Baggiguane (Ténèbres/Combat), Cradopaud (Poison/Combat), Poulpaf (Combat), Wattapik (Eau/Électrik)
+Grotte du Pugilat - Niveau 3 - CS Force : Minotaupe (Sol), Hippodocus (Sol/Roche), Berserkatt (Combat), Maracachi (Plante), Kaorine (Sol/Psy), Tutekri (Roche/Spectre), Dunaconda (Dragon), Chartor (Feu), Sulfura-G (Ténèbres/Vol) [Légendaire]
+
+Route 10 - Niveau 3 : Oniglali (Spectre), Blizzaroi (Glace/Plante), Farfuret (Ténèbres/Glace), M.Mime-G (Glace/Psy), Darumarond-G (Feu), Polagriffe (Glace/Combat), Bekaglaçon (Glace), Dolman (Normal/Combat)

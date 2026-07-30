@@ -1,0 +1,77 @@
+Routes 1 & 2 & 3 - Niveau 2 : Cheniti (Insecte), Lépidonille (Insecte), Passerouge (Normal/Vol), Sapereau (Normal), Larveyette (Insecte/Plante), Keunotor (Normal)
+Routes 1 & 2 & 3 - Niveau 1 - Canne : Magicarpe (Eau), Poissirène (Eau), Écrapince (Eau), Arakdo (Insecte/Eau)
+
+Forêt de Neuvartault - Niveau 2 : Chenipan (Insecte), Aspicot (Insecte/Poison), Lépidonille (Insecte), Cheniti (Insecte), Passerouge (Normal/Vol), Larveyette (Insecte/Plante), Marisson (Plante) [Starter]
+
+Route 22 - Niveau 1 : Sapereau (Normal), Keunotor (Normal), Psykokwak (Eau), Canarticho (Normal/Vol)
+Route 22 - Niveau 2 - CS Coupe : Lépidonille (Insecte), Passerouge (Normal/Vol), Sapereau (Normal), Keunotor (Normal), Excavarenne (Normal/Sol), Castorno (Normal/Eau)
+
+Chambre Néant - Niveau 1 : Carabing (Insecte), Rapion (Poison/Insecte), Sépiatop (Ténèbres/Psy), Mucuscule (Dragon), Yveltal (Ténèbres/Vol) [Légendaire]
+
+Route 4 - Niveau 2 : Flabébé (Fée), Apitrini (Insecte/Vol), Rozbouton (Plante/Poison), Larveyette (Insecte/Plante), Skitty (Normal), Couafarel (Normal), Feunnec (Feu) [Starter]
+
+Route 5 - Niveau 1 : Doduo (Normal/Vol), Cabriolaine (Plante), Pandespiègle (Combat), Couafarel (Normal)
+
+Routes 6 & 7 - Niveau 4 : Flabébé (Fée), Sucroquin (Fée), Fluvetin (Eau), Venipatte (Insecte/Poison), Couaneton (Eau/Vol), Psystigri (Psy), Cradopaud (Poison/Combat), Couafarel (Normal), Monorpale (Acier/Spectre), Nanméouïe (Psy), Hélionceau (Feu/Normal) [Starter]
+
+Cave Connecterre - Niveau 1 : Coupenotte (Dragon), Sapereau (Normal), Chovsourir (Vol/Dragon), Sépiatop (Ténèbres/Psy)
+
+Route 8 - Niveau 3 - Canne : Flingouste (Eau), Venalgue (Poison/Eau), Lovdisc (Eau), Tentacool (Eau/Poison), Goélise (Eau/Vol), Wailmer (Eau), Kokiyas (Eau), Stari (Eau)
+
+Route 9 - Niveau 1 : Hippopotas (Sol), Mascaiman (Sol/Ténèbres), Galvaran (Électrik/Normal), Crabicoque (Insecte/Roche)
+
+Grotte Étincelante - Niveau 1 : Chovsourir (Vol/Dragon), Grindur (Plante/Acier), Miamiasme (Poison), Mysdibule (Acier/Fée)
+Grotte Étincelante - Niveau 1 - CS Éclate-Roc : Crabicoque (Insecte/Roche), Opermine (Roche/Eau), Rapion (Poison/Insecte), Baggiguane (Ténèbres/Combat)
+
+Relifac-le-Haut - Niveau 3 - Super-Canne : Flingouste (Eau), Venalgue (Poison/Eau), Lovdisc (Eau), Hypotrempe (Eau), Tentacool (Eau/Poison), Wailmer (Eau), Gamblast (Eau), Kravarech (Poison/Dragon)
+
+Route 10 - Niveau 1 : Cryptéro (Psy/Vol), Emolga (Électrik/Vol), Gringolem (Sol/Spectre), Brutalibré (Combat/Vol)
+
+Route 11 - Niveau 2 : Korillon (Psy), Étourvol (Normal/Vol), Judokrak (Combat), Karaclée (Combat), Dedenne (Électrik/Fée), Moufouette (Poison/Ténèbres)
+
+Grotte Miroitante - Niveau 1 : Nodulith (Roche), Korillon (Psy), Nucléos (Psy), Strassie (Roche/Fée)
+Grotte Miroitante - Niveau 1 - CS Force : Géolith (Roche), Symbios (Insecte/Fée), Grelaçon (Glace), Séracrawl (Glace), Diancie (Roche/Fée) [Légendaire]
+
+Route 12 - Niveau 2 - Super-Canne : Corayon (Eau/Roche), Couaneton (Eau/Vol), Tentacool (Eau/Poison), Flingouste (Eau), Coquiperl (Eau), Babimanta (Eau/Vol)
+Route 12 - Niveau 3 - CS Éclate-Roc : Ramoloss (Eau/Psy), Couaneton (Eau/Vol), Wattouat (Électrik), Goélise (Eau/Vol), Pachirisu (Électrik), Noeunoeuf (Plante/Psy), Mucuscule (Dragon), Pijako (Normal/Vol)
+
+Baie Azur - Niveau 4 - Méga-Canne : Lovdisc (Eau), Tentacool (Eau/Poison), Wailmer (Eau), Goélise (Eau/Vol), Loupio (Eau/Électrik), Mamanbo (Eau), Remoraid (Eau), Musteflott (Eau), Babimanta (Eau/Vol), Gamblast (Eau)
+Baie Azur - Niveau 2 - CS Éclate-Roc : Pijako (Normal/Vol), Crabicoque (Insecte/Roche), Goélise (Eau/Vol), Ramoloss (Eau/Psy), Sepiatop (Ténèbres/Psy), Noeunoeuf (Plante/Psy)
+
+Antre Néréen - Niveau 1 : Escargaume (Insecte), Hippopotas (Sol), Monorpale (Acier/Spectre), Strassie (Roche/Fée), Volcanion (Feu/Eau) [Légendaire]
+
+Route 13 - Niveau 1 : Griknot (Dragon/Sol), Hippopotas (Sol), Mascaiman (Sol/Ténèbres), Korillon (Psy)
+
+Route 14 - Niveau 2 : Rapion (Poison/Insecte), Chétiflor (Plante/Poison), Carabing (Insecte), Escargaume (Insecte), Mucuscule (Dragon), Vortente (Plante)
+Route 14 - Niveau 2 - Surf : Axoloto (Eau/Sol), Limonde (Eau/Sol), Ptitard (Eau), Barloche (Eau/Sol), Mucuscule (Dragon), Têtarte (Eau)
+
+Romant-sous-Bois - Niveau 1 - Super-Canne : Limonde (Eau/Sol), Mustébouée (Eau), Couaneton (Eau/Vol), Bargantua (Eau)
+
+Routes 15 & 16 - Niveau 3 : Rapion (Poison/Insecte), Trompignon (Plante/Poison), Scalpion (Ténèbres/Acier), Mustébouée (Eau), Brôcelome (Plante/Spectre), Pitrouille (Plante/Spectre), Couafarel (Normal), Miradar (Normal/Vol), Evoli (Normal) [Starter]
+Routes 15 & 16 - Niveau 2 - Surf : Bargantua (Eau), Nénupiot (Eau/Plante), Ptitard (Eau), Mustébouée (Eau), Lombre (Eau/Plante), Têtarte (Eau)
+
+Hôtel Désolation - Niveau 1 : Scalpion (Ténèbres/Acier), Monorpale (Acier/Spectre), Miamiasme (Poison), Miasmax (Poison), Hoopa (Psy/Spectre) [Légendaire]
+
+Caverne Gelée - Niveau 2 : Blizzi (Glace/Plante), Marcacrin (Glace/Sol), Strassie (Roche/Fée), Grelaçon (Glace), Otaria (Eau), Polarhume (Glace)
+
+Route 17 - Niveau 1 : Grelaçon (Glace), Marcacrin (Glace/Sol), Blizzi (Glace/Plante), Blizzaroi (Glace/Plante)
+
+Route 18 - Niveau 2 : Carabing (Insecte), Escargaume (Insecte), Géolithe (Roche), Ouvrifier (Combat), Aflamanoir (Feu), Fermite (Acier/Insecte)
+
+Grotte Coda - Niveau 3 : Racaillou (Roche/Sol), Crabicoque (Insecte/Roche), Nodulith (Roche), Scalpion (Ténèbres/Acier), Géolithe (Roche), Fermite (Acier/Insecte), Embrylex (Roche/Sol), Galekid (Acier/Roche), Zygarde (Dragon/Sol) [Légendaire]
+
+Mozheim - Niveau 1 - Méga-Canne : Têtarte (Eau), Lombre (Eau/Plante), Bargantua (Eau), Musteflott (Eau)
+
+Routes 19 & 20 - Niveau 4 : Rapion (Poison/Insecte), Carabing (Insecte), Escargaume (Insecte), Colimucus (Dragon), Mesmerella (Psy), Méios (Psy), Vortente (Plante), Gaulet (Plante), Drascore (Poison/Ténèbres), Desseliandre (Plante/Spectre)
+
+Village Pokémon - Niveau 3 : Trompignon (Plante/Poison), Rondoudou (Normal/Fée), Ptitard (Eau), Mesmerella (Psy), Branette (Spectre), Gaulet (Plante), Desseliandre (Plante/Spectre), Miasmax (Poison), Xerneas (Fée) [Légendaire]
+
+Route 21 - Niveau 1 : Teddiursa (Normal), Tylton (Normal/Vol), Spinda (Normal), Étourvol (Normal/Vol), Grenousse (Eau) [Starter]
+Route 21 - Niveau 3 - Surf : Bargantua (Eau), Tentacool (Eau/Poison), Nénupiot (Eau/Plante), Ptitard (Eau), Goélise (Eau/Vol), Lombre (Eau/Plante), Têtarte (Eau), Musteflott (Eau)
+
+Route Victoire - Niveau 3 : Ouvrifier (Combat), Géolithe (Roche), Gravalanch (Roche/Sol), Rhinolove (Psy/Vol), Drakkarmin (Dragon/Combat), Musteflott (Eau), Drascore (Poison/Ténèbres), Chevroum (Plante)
+
+Parc Safari - Niveau 4 (Zone 1) : Sapereau (Normal), Keunotor (Normal), Crikzik (Insecte), Moufouette (Poison/Ténèbres), Larveyette (Insecte/Plante), Dedenne (Électrik/Fée), Excavarenne (Normal/Sol), Castorno (Normal/Eau), Griknot (Dragon/Sol), Goupix (Feu)
+Parc Safari - Niveau 4 (Zone 2) : Galvaran (Électrik/Normal), Goupix (Feu), Couverdure (Insecte/Plante), Grindur (Sol), Mucuscule (Dragon), Griknot (Dragon/Sol), Vortente (Plante), Fermite (Acier/Insecte), Manternel (Plante), Aflamanoir (Feu)
+Parc Safari - Niveau 4 (Zone 3) : Galvaran (Électrik/Normal), Grindur (Sol), Pomdepik (Insecte), Meditikka (Combat/Psy), Scalpion (Ténèbres/Acier), Kecleon (Normal), Mucuscule (Dragon), Brutalibré (Combat/Vol), Vortente (Plante), Simularbre (Roche)
+Parc Safari - Niveau 4 - Surf : Limonde (Eau/Sol), Flingouste (Eau), Couaneton (Eau/Vol), Mustébouée (Eau), Coquiperl (Eau), Ptitard (Eau), Mamanbo (Eau), Axoloto (Eau/Sol), Babimanta (Eau/Vol), Otaria (Eau)

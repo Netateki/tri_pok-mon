@@ -1,0 +1,104 @@
+Route 1 - Niveau 1 : Picassaut (Normal/Vol), Rattata-A (Ténèbres/Normal), Larvibule (Insecte), Pikachu (Électrik), Zeraora (Électrik) [Légendaire]
+
+Colline Dicarat - Niveau 1 : Rocabot (Roche), Chovsourir (Vol/Dragon), Strassie (Roche/Fée), Taupiqueur-A (Sol/Acier)
+Colline Dicarat - Niveau 1 - CS Éclate-Roc : Nodulithe (Roche), Strassie (Roche/Fée), Spinda (Normal), Chovsourir (Vol/Dragon), Necrozma (Psy) [Légendaire]
+
+Sentier de Mahalo - Niveau 1 : Picassaut (Normal/Vol), Manglouton (Normal), Rattata-A (Ténèbres/Normal), Larvibule (Insecte), Tokorico (Électrik/Fée) [Légendaire]
+
+Ekaeka - Niveau 2 : Manglouton (Normal), Goélise (Eau/Vol), Miaouss-A (Ténèbres), Rattata-A (Ténèbres/Normal), Tadmorv-A (Poison/Ténèbres), Pikachu (Électrik), Magearna (Acier/Fée) [Légendaire]
+
+Route 2 - Niveau 2 : Manglouton (Normal), Rattata-A (Ténèbres/Normal), Passerouge (Normal/Vol), Bombydou (Insecte/Fée), Miaouss-A (Ténèbres), Munna (Psy)
+
+Cimetière - Niveau 1 : Rattata-A (Ténèbres/Normal), Fantominus (Spectre/Poison), Feuforêve (Spectre), Monorpale (Acier/Spectre)
+
+Grotte Verdoyante - Niveau 1 : Rattata-A (Ténèbres/Normal), Manglouton (Normal), Taupiqueur-A (Sol/Acier), Chovsourir (Vol/Dragon), Cancrelove (Combat/Insecte) [Légendaire]
+
+Jardin de Mele-Mele - Niveau 3 : Bombydou (Insecte/Fée), Chlorobule (Plante), Doudouvet (Plante), Larveyette (Insecte/Plante), Plumeline (Plante), Larvibule (Insecte), Evoli (Normal) [Starter], Mouscoto (Insecte/Combat) [Légendaire]
+
+Baie de Kala'e - Niveau 1 : Draby (Dragon), Manglouton (Normal), Rattata-A (Ténèbres/Normal), Taupiqueur-A (Sol/Acier)
+Baie de Kala'e - Niveau 1 - Super-Canne : Goélise (Eau/Vol), Ecayon (Eau), Froussardine (Eau), Denticrisse (Eau)
+
+Route 3 - Niveau 2 : Bombydou (Insecte/Fée), Manglouton (Normal), Rattata-A (Ténèbres/Normal), Vostourno (Ténèbres/Vol), Furaiglon (Normal/Vol), Crabagarre (Combat/Glace)
+
+Routes 4 & 5 - Niveau 4 : Ponchiot (Normal), Manglouton (Normal), Rattata-A (Ténèbres/Normal), Larvibule (Insecte), Picassaut (Normal/Vol), Taupiqueur-A (Sol/Acier), Mimantis (Plante), Croquine (Plante), Piclairon (Insecte/Électrik), Crabagarre (Combat/Glace)
+
+Tunnel Taupiqueur - Niveau 1 (1er ensemble) : Rattata-A (Ténèbres/Normal), Racaillou-A (Roche/Électrik), Chovsourir (Vol/Dragon), Taupiqueur-A (Sol/Acier)
+Tunnel Taupiqueur - Niveau 1 (2e ensemble) : Triopikeur-A (Sol/Acier), Lougaroc (Roche), Météno (Roche/Vol), Racaillou-A (Roche/Électrik), Zéroïd (Roche/Poison) [Légendaire]
+
+Plage Hano-Hano - Niveau 1 - CS Surf : Crabicoque (Insecte/Roche), Ecayon (Eau), Concombaffe (Eau), Denticrisse (Eau)
+Plage Hano-Hano - Niveau 2 - CS Éclate-Roc : Crabicoque (Insecte/Roche), Racaillou-A (Roche/Électrik), Couaneton (Eau/Vol), Miamiasme (Poison), Concombaffe (Eau), Bacabouh (Plante/Spectre)
+
+Ohana - Niveau 1 - Canne : Froussardine (Eau), Ecayon (Eau), Denticrisse (Eau), Viskuse (Eau)
+
+Ranch Ohana - Niveau 1 : Ponchiot (Normal), Frison (Glace), Cabriolaine (Plante), Dodoala (Normal)
+
+Colline Clapotis - Niveau 1 : Ponchiot (Normal), Araqua (Eau/Insecte), Spododo (Plante), Couaneton (Eau/Vol)
+Colline Clapotis - Niveau 1 - Méga-Canne : Ecayon (Eau), Couaneton (Eau/Vol), Froussardine (Eau), Mamanbo (Eau)
+
+Routes 6 & 7 - Niveau 4 : Picassaut (Normal/Vol), Manglouton (Normal), Rattata-A (Ténèbres/Normal), Plumeline (Plante), Ponchiot (Normal), Passerouge (Normal/Vol), Météno (Roche/Vol), Larvibule (Insecte), Osselait (Sol), Tritox (Poison/Feu)
+Routes 6 & 7 - Niveau 1 - Super-Canne : Ecayon (Eau), Concombaffe (Eau), Froussardine (Eau), Mamanbo (Eau)
+
+Parc Volcanique - Niveau 1 : Passerouge (Normal/Vol), Tritox (Poison/Feu), Osselait (Sol), Racaillou-A (Roche/Électrik)
+
+Route 8 - Niveau 3 : Manglouton (Normal), Rattata-A (Ténèbres/Normal), Picassaut (Normal/Vol), Tritox (Poison/Feu), Nounourson (Normal/Combat), Piclairon (Insecte/Électrik), Braisillon (Feu), Crabagarre (Combat/Glace)
+
+Jungle Sombrefeuille - Niveau 4 : Chovsourir (Vol/Dragon), Taupiqueur-A (Sol/Acier), Croquine (Plante), Mimantis (Plante), Piclairon (Insecte/Électrik), Spododo (Plante), Guérilande (Plante/Fée), Chrysapile (Insecte), Gouroutan (Normal/Psy), Quatermac (Normal), Brindibou (Plante/Vol) [Starter]
+Jungle Sombrefeuille - Niveau 1 - CS Coupe : Candine (Fée), Lampignon (Plante/Spectre), Guérilande (Plante/Fée), Pikachu (Électrik)
+
+Route 9 - Niveau 1 - Méga-Canne : Froussardine (Eau), Ecayon (Eau), Vorastérie (Plante), Viskuse (Eau)
+
+Colline Memento - Niveau 1 : Chovsourir (Vol/Dragon), Brocelôme (Plante/Spectre), Tutafeh (Spectre), Feuforêve (Spectre), Cablifère (Électrik) [Légendaire]
+
+Côte Reculée d'Akala - Niveau 2 : Rattata-A (Ténèbres/Normal), Manglouton (Normal), Goélise (Eau/Vol), Rattatac-A (Ténèbres/Normal), Nounourson (Normal/Combat), Argouste (Normal), Tokopiyon (Psy/Fée) [Légendaire]
+
+Parc de Malié - Niveau 2 : Miaouss-A (Ténèbres), Doudouvet (Plante), Chlorobule (Plante), Couaneton (Eau/Vol), Crabicoque (Insecte/Roche), Tarenbulle (Eau/Insecte)
+
+Routes 10 & 11 - Niveau 3 : Argouste (Normal), Rattatac-A (Ténèbres/Normal), Pandespiègle (Combat), Piclairon (Insecte/Électrik), Vostourno (Ténèbres/Vol), Dodoala (Normal), Spododo (Plante), Crabagarre (Combat/Glace)
+
+Mont Hokulani - Niveau 1 : Vostourno (Ténèbres/Vol), Météno (Roche/Vol), Furaiglon (Normal/Vol), Pandespiègle (Combat)
+
+Route 12 - Niveau 2 : Racaillou-A (Roche/Électrik), Passerouge (Normal/Vol), Tritox (Poison/Feu), Braisillon (Feu), Hippopotas (Sol), Boumata (Normal/Combat), Tiboudet (Sol) [Starter]
+
+Mont Ardent - Niveau 2 : Passerouge (Normal/Vol), Racaillou-A (Roche/Électrik), Hippopotas (Sol), Togedemaru (Électrik/Acier), Chrysapile (Insecte), Boumata (Normal/Combat), Flamiaou (Feu) [Starter]
+
+Village Toko - Niveau 2 : Argouste (Normal), Rattatac-A (Ténèbres/Normal), Sorboul (Glace), Strassie (Roche/Fée), Goupix-A (Glace), Sabelette-A (Glace/Acier)
+Village Toko - Niveau 1 - CS Surf : Lakmécygne (Eau/Vol), Froussardine (Eau), Bargantua (Eau), Denticrisse (Eau)
+
+Routes 13 & 14 & 15 - Niveau 2 - Canne : Ecayon (Eau), Bekipan (Eau/Vol), Froussardine (Eau), Denticrisse (Eau)
+
+Ruines de l'Essor - Niveau 1 : Mascaïman (Sol/Ténèbres), Triopikeur-A (Sol/Acier), Hippopotas (Sol), Crabicoque (Insecte/Roche), Bamboiselle (Plante/Vol) [Légendaire], Tokotoro (Plante/Fée) [Légendaire]
+
+Ancien site Bradley Prix - Niveau 1 : Tutafeh (Spectre), Rattatac-A (Ténèbres/Normal), Chovsourir (Vol/Dragon), Rhinolove (Psy/Vol), Marshadow (Combat/Spectre) [Légendaire]
+
+Mont Lanakila - Niveau 2 : Goupix-A (Glace), Sabelette-A (Glace/Acier), Sorboul (Glace), Rhinolove (Psy/Vol), Strassie (Roche/Fée), Draieul (Dragon)
+
+Jardin d'Ula-Ula - Niveau 1 : Chlorobule (Plante), Doudouvet (Plante), Rubombelle (Plante/Fée), Plumeline (Plante)
+
+Routes 16 & 17 - Niveau 3 : Rattatac-A (Ténèbres/Normal), Argouste (Normal), Pandespiègle (Combat), Bekipan (Eau/Vol), Vostourno (Ténèbres/Vol), Crabagarre (Combat/Glace), Gravalanch-A (Roche/Électrik), Katagami (Acier/Plante) [Légendaire]
+
+Lac du Halo Lunaire - Niveau 1 : Guérilande (Plante/Fée), Rubombelle (Plante/Fée), Chlorobule (Plante), Doudouvet (Plante), Otaquin (Eau) [Starter], Cosmog (Psy) [Légendaire]
+
+Village Flottant - Niveau 1 - Méga-Canne : Mamanbo (Eau), Moyade (Eau), Bargantua (Eau), Sinistrail (Plante/Spectre)
+
+Île Noadkoko - Niveau 1 : Noeunoeuf (Plante/Psy), Bekipan (Eau/Vol), Tritosor (Normal/Vol), Colimucus (Dragon)
+
+Prairie de Poni - Niveau 1 : Rattatac-A (Ténèbres/Normal), Bekipan (Eau/Vol), Noeunoeuf (Plante/Psy), Tritosor (Normal/Vol), Meltan (Acier) [Légendaire]
+Prairie de Poni - Niveau 2 - Super-Canne : Bekipan (Eau/Vol), Tritosor (Normal/Vol), Mamanbo (Eau), Bargantua (Eau), Luminéon (Eau), Gamblast (Eau)
+
+Paradis Aether - Niveau 3 (Zone 1) : Chaffreux (Roche), Tritosor (Normal/Vol), Castorno (Normal/Eau), Moufflair (Poison/Ténèbres), Leopardus (Ténèbres), Nanméouie (Psy), Shaofouine (Combat), Draieul (Dragon), Type:0 (Normal) [Légendaire]
+Paradis Aether - Niveau 3 (Zone 2) : Maracachi (Plante), Escroco (Sol/Ténèbres), Braisillon (Feu), Chevroum (Plante), Colimucus (Dragon), Manternel (Plante), Hegaxel (Glace), Boumata (Normal/Combat)
+Paradis Aether - Niveau 2 - Méga-Canne : Musteflott (Eau), Crapustule (Eau/Combat), Gamblast (Eau), Moyade (Eau), Kravarech (Poison/Dragon), Lakmécygne (Eau/Vol)
+
+Grand Canyon de Poni - Niveau 2 : Pandarbare (Normal/Combat), Géolithe (Roche), Strassie (Roche/Fée), Bébécaille (Dragon), Lougaroc (Roche), Solgaleo (Psy/Acier) [Légendaire], Lunala (Psy/Spectre) [Légendaire]
+Grand Canyon de Poni - Niveau 1 : Triopikeur-A (Sol/Acier), Géolithe (Roche), Strassie (Roche/Fée), Gravalanch-A (Roche/Électrik)
+Grand Canyon de Poni - Niveau 1 - CS Éclate-Roc : Chevroum (Plante), Triopikeur-A (Sol/Acier), Rhinolove (Psy/Vol), Crapustule (Eau/Sol)
+
+Vieille route - Niveau 2 : Argouste (Normal), Rattatac-A (Ténèbres/Normal), Bekipan (Eau/Vol), Escroco (Sol/Ténèbres), Noeunoeuf (Plante/Psy), Tritosor (Normal/Vol), Vémini (Poison) [Légendaire]
+
+Ruines de l'Au-Delà - Niveau 1 - CS Surf : Ecayon (Eau), Mamanbo (Eau), Bargantua (Eau), Viskuse (Eau), Tokopisco (Eau/Fée) [Légendaire]
+
+Plaine de Poni - Niveau 4 : Crabagarre (Combat/Glace), Piclairon (Insecte/Électrik), Rattatac-A (Ténèbres/Normal), Chlorobule (Plante), Doudouvet (Plante), Chevroum (Plante), Frison (Glace), Emolga (Électrik/Vol), Guériaigle (Normal/Vol), Vaututrice (Ténèbres/Vol), Pierroteknik (Feu/Psy) [Légendaire], Ama-Ama (Roche/Acier) [Légendaire]
+
+Jardin de Poni - Niveau 2 : Guérilande (Plante/Fée), Chlorobule (Plante), Doudouvet (Plante), Plumeline (Plante), Rubombelle (Plante/Fée), Manternel (Plante/Insecte)
+
+Caverne Coda - Niveau 1 : Gravalanch-A (Roche/Électrik), Géolithe (Roche), Rhinolove (Psy/Vol), Triopikeur-A (Sol/Acier), Engloutyran (Eau/Ténèbres) [Légendaire]

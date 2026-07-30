@@ -1,0 +1,84 @@
+Bonaugure - Niveau 2 - Surf : Magicarpe (Eau), Poissirène (Eau), Poissoroy (Eau), Psykokwak (Eau), Leviator (Eau/Vol), Akwakwak (Eau)
+
+Lac Vérité - Berges - Niveau 2 : Etourmi (Normal/Vol), Keunotor (Normal), Chaglam (Normal), Crikzik (Insecte), Castorno (Normal/Eau), Etourvol (Normal/Vol)
+Lac Vérité - Niveau 2 - Super-Canne : Magicarpe (Eau), Poissirène (Eau), Poissoroy (Eau), Psykokwak (Eau), Leviator (Eau/Vol), Akwakwak (Eau), Créfollet (Eau) [Légendaire]
+
+Routes 201 & 202 - Niveau 1 : Etourmi (Normal/Vol), Keunotor (Normal), Crikzik (Insecte), Lixy (Électrik)
+
+Route 203 - Niveau 2 : Etourmi (Normal/Vol), Keunotor (Normal), Crikzik (Insecte), Lixy (Électrik), Abra (Psy), Nosferapti (Poison/Vol)
+
+Route 206 & 207 - Niveau 4 : Archeomire (Acier/Psy), Racaillou (Roche/Sol), Nosferapti (Poison/Vol), Machoc (Combat), Crikzik (Insecte), Melokrik (Insecte), Scorplane (Sol/Vol), Tarinor (Roche), Ponyta (Feu), Griknot (Dragon/Sol)
+Route 206 & 207 - Niveau 1 - CS Éclate-Roc : Moufouette (Poison/Ténèbres), Snubbull (Normal), Etourmi (Normal/Vol), Keunotor (Normal)
+
+Mont Couronné - Niveau 2 : Machoc (Combat), Nosferapti (Poison/Vol), Archeomire (Acier/Psy), Racaillou (Roche/Sol), Meditikka (Combat/Psy), Korillon (Psy), Riolu (Combat) [Starter]
+Mont Couronné - Niveau 4 : Korillon (Psy), Nosferalto (Poison/Vol), Gravalanch (Roche/Sol), Blizzi (Glace/Plante), Machopeur (Combat), Melofée (Fée), Eoko (Psy), Archodong (Acier/Psy), Charmina (Combat/Psy), Blizzaroi (Glace/Plante)
+
+Colonnes Lances - Niveau 1 (1er ensemble) : Machopeur (Combat), Charmina (Combat/Psy), Korillon (Psy), Eoko (Psy), Dialga (Acier/Dragon) [Légendaire]
+Colonnes Lances - Niveau 1 (2e ensemble) : Archeomire (Acier/Psy), Archeodong (Acier/Psy), Melofée (Fée), Gravalanch (Roche/Sol), Palkia (Eau/Dragon) [Légendaire]
+
+Route 204 - Niveau 2 : Etourmi (Normal/Vol), Keunotor (Normal), Crikzik (Insecte), Lixy (Électrik), Rozbouton (Plante/Poison), Nosferapti (Poison/Vol)
+
+Forge Fuego - Niveau 2 : Goélise (Eau/Vol), Lixy (Électrik), Pachirisu (Électrik), Sancoki (Eau), Luxio (Électrik), Tritosor (Normal/Vol)
+Forge Fuego - Niveau 4 - Surf : Goélise (Eau/Vol), Tentacool (Eau/Poison), Magicarpe (Eau), Ecayon (Eau), Bekipan (Eau/Vol), Musteflott (Eau), Lumineon (Eau), Tentacruel (Eau/Poison), Leviator (Eau/Vol), Kokiyas (Eau)
+
+Route 205 - Niveau 3 : Mustebouée (Eau), Keunotor (Normal), Hoothoot (Normal/Vol), Floravol (Plante/Vol), Ramoloss (Eau/Psy), Pachirisu (Électrik), Sancoki (Eau), Rozbouton (Plante/Poison)
+Route 205 - Niveau 3 - Super-Canne : Magicarpe (Eau), Barloche (Eau/Sol), Ecayon (Eau), Akwakwak (Eau), Lumineon (Eau), Barbicha (Eau/Sol), Leviator (Eau/Vol), Kokiyas (Eau)
+
+Forêt de Vestigion - Niveau 4 : Chenipotte (Insecte), Blindalys (Insecte), Armulys (Insecte), Papinox (Insecte/Vol), Charmillon (Insecte/Poison), Laporeille (Normal), Rozbouton (Plante/Poison), Cornebre (Ténèbres/Vol), Feuforêve (Spectre), Fantominus (Spectre/Poison), Tortipouss (Plante) [Starter]
+Forêt de Vestigion - Niveau 3 : Cheniti (Insecte), Cheniselle (Insecte), Papilord (Insecte/Vol), Ceribou (Plante), Apitrini (Insecte/Vol), Apireine (Insecte/Vol), Capumain (Normal), Scarhino (Insecte/Combat)
+Forêt de Vestigion - Niveau 2 - CS Coupe : Laporeille (Normal), Fantominus (Spectre/Poison), Feuforêve (Spectre), Cornebre (Ténèbres/Vol), Rosélia (Plante/Poison), Magirêve (Spectre), Shaymin (Plante) [Starter]
+
+Grotte Revêche - Niveau 2 : Archeomire (Acier/Psy), Nosferapti (Poison/Vol), Racaillou (Roche/Sol), Keunotor (Normal), Griknot (Dragon/Sol), Hippopotas (Sol)
+
+Route 209 - Niveau 4 : Etourmi (Normal/Vol), Snubbull (Normal), Goupix (Feu), Ecremeuh (Normal), Tauros (Normal), Etourvol (Normal/Vol), Leveinard (Normal), Fantominus (Spectre/Poison), Roselia (Plante/Poison), Skelenox (Spectre)
+Route 209 - Niveau 2 - Surf : Magicarpe (Eau), Poissirène (Eau), Psykokwak (Eau), Keunotor (Normal), Poissoroy (Eau), Akwakwak (Eau)
+
+Route 212 - Niveau 3 : Etourmi (Normal/Vol), Keunotor (Normal), Mustebouee (Eau), Castorno (Normal/Eau), Etourvol (Normal/Vol), Rozbouton (Plante/Poison), Sancoki (Eau), Roselia (Plante/Poison)
+Route 212 - Niveau 1 - Canne : Remoraid (Eau), Barloche (Eau/Sol), Poissirène (Eau), Psykokwak (Eau)
+
+Route 210 - Niveau 4 : Racaillou (Roche/Sol), Machoc (Combat), Hoothoot (Normal/Vol), Meditikka (Combat/Psy), Melokrik (Insecte), Noarfang (Normal/Vol), Insecateur (Insecte/Vol), Ponyta (Feu), Leveinard (Normal), Machopeur (Combat)
+
+Route 215 - Niveau 2 : Crikzik (Insecte), Melokrik (Insecte), Racaillou (Roche/Sol), Abra (Psy), Ponyta (Feu), Kadabra (Psy)
+
+Célestia - Niveau 4 - Surf : Magicarpe (Eau), Ecayon (Eau), Ecrapince (Eau), Kokiyas (Eau), Barloche (Eau/Sol), Lumineon (Eau), Akwakwak (Eau), Barbicha (Eau/Sol), Leviator (Eau/Vol), Colhomard (Eau/Ténèbres)
+
+Route 211 - Niveau 2 : Korillon (Psy), Gravalanch (Roche/Sol), Nosferalto (Poison/Vol), Machopeur (Combat), Meditikka (Combat/Psy), Melofee (Fée)
+Route 211 - Niveau 2 - Super Canne : Magicarpe (Eau), Ecayon (Eau), Sancoki (Eau), Bekipan (Eau/Vol), Leviator (Eau/Vol), Stari (Eau)
+
+Route 214 - Niveau 4 : Racaillou (Roche/Sol), Chaglam (Normal), Hippopotas (Sol), Spoink (Psy), Moufouette (Poison/Ténèbres), Scorplane (Sol/Vol), Gravalanch (Roche/Sol), Girafarig (Normal/Psy), Moufflair (Poison/Ténèbres), Scorvol (Sol/Vol)
+
+Grotte Retour - Niveau 2 : Archeomire (Acier/Psy), Korillon (Psy), Nosferalto (Poison/Vol), Skelenox (Spectre), Eoko (Psy), Archeodong (Acier/Psy)
+Grotte Retour - Niveau 1 - CS Force : Seleroc (Roche/Psy), Solaroc (Roche/Psy), Skelenox (Spectre), Teraclope (Spectre), Giratina (Spectre/Dragon) [Légendaire]
+
+Route 213 - Niveau 1 : Mustebouee (Eau), Racaillou (Roche/Sol), Chaglam (Normal), Girafarig (Normal/Psy)
+Route 213 - Niveau 2 - CS Éclate-Roc : Gravalanch (Roche/Sol), Castorno (Normal/Eau), Etourvol (Normal/Vol), Musteflott (Eau), M.Mime (Psy/Fée), Chaffreux (Roche)
+
+Le Grand Marais - Niveau 4 (Zone 1) : Paras (Insecte/Plante), Balignon (Plante), Castorno (Normal/Eau), Cradopaud (Poison/Combat), Etourvol (Normal/Vol), Marill (Eau/Fée), Vortente (Plante), Yanma (Insecte/Vol), Arbok (Poison), Kangourex (Normal)
+Le Grand Marais - Niveau 4 (Zone 2) : Hoothoot (Normal/Vol), Keunotor (Normal), Rozbouton (Plante/Poison), Axoloto (Eau/Sol), Rapion (Poison/Insecte), Gloupti (Poison), Roselia (Plante/Poison), Akwakwak (Eau), Drascore (Poison/Ténèbres), Maraiste (Eau/Sol)
+
+Lac Courage - Niveau 2 : Keunotor (Normal), Korillon (Psy), Psykokwak (Eau), Castorno (Normal/Eau), Noarfang (Normal/Vol), Etourvol (Normal/Vol)
+Lac Courage - Niveau 2 - Méga Canne : Magicarpe (Eau), Poissirène (Eau), Poissoroy (Eau), Psykokwak (Eau), Leviator (Eau/Vol), Akwakwak (Eau), Crefadet (Eau) [Légendaire]
+
+Route 218 - Niveau 3 : Chaglam (Normal), Goelise (Eau/Vol), Sancoki (Eau), Pijako (Normal/Vol), Voltorbe (Électrik), M. Mime (Psy/Fée), Musteflott (Eau), Tritosor (Normal/Vol), Tiplouf (Eau) [Starter]
+Route 218 - Niveau 3 - Surf : Goelise (Eau/Vol), Tentacool (Eau/Poison), Magicarpe (Eau), Ecayon (Eau), Bekipan (Eau/Vol), Lumineon (Eau), Tentacruel (Eau/Poison), Leviator (Eau/Vol)
+
+Lac Savoir - Niveau 2 : Blizzi (Glace/Plante), Teddiursa (Normal), Castorno (Normal/Eau), Noarfang (Normal/Vol), Farfuret (Ténèbres/Glace), Ursaring (Normal)
+Lac Savoir - Niveau 2 - Méga Canne : Magicarpe (Eau), Psykokwak (Eau), Poissirène (Eau), Poissoroy (Eau), Leviator (Eau/Vol), Akwakwak (Eau), Crehelf (Eau) [Légendaire]
+
+Routes 216 & 217 - Niveau 4 : Marcacrin (Glace/Sol), Blizzi (Glace/Plante), Meditikka (Combat/Psy), Stalgamin (Glace), Farfuret (Ténèbres/Glace), Charmina (Combat/Psy), Gravalanch (Roche/Sol), Machopeur (Combat), Cochignon (Glace/Sol), Ursaring (Normal)
+
+Temple Frimapic - Niveau 3 : Racaillou (Roche/Sol), Blizzi (Glace/Plante), Farfuret (Ténèbres/Glace), Nosferalto (Poison/Vol), Onix (Roche/Sol), Gravalanch (Roche/Sol), Steelix (Acier/Sol), Lippoutou (Glace/Psy), Regigigas (Normal) [Légendaire]
+
+Route 222 - Niveau 4 : Chaglam (Normal), Goelise (Eau/Vol), Magneti (Électrik/Acier), Sancoki (Eau), Pijako (Normal/Vol), Luxio (Électrik), Musteflott (Eau), Tritosor (Normal/Vol), Magneton (Électrik/Acier), Elektek (Électrik)
+Route 222 - Niveau 2 - Méga Canne : Magicarpe (Eau), Remoraid (Eau), Tentacool (Eau/Poison), Tentacruel (Eau/Poison), Octillery (Eau), Sharpedo (Eau/Ténèbres)
+
+Chenal 223 - Niveau 4 - Surf : Tentacool (Eau/Poison), Goelise (Eau/Vol), Magicarpe (Eau), Remoraid (Eau), Poissirene (Eau), Coquiperl (Eau), Babimanta (Eau/Vol), Octillery (Eau), Relicanth (Eau/Roche), Tentacruel (Eau/Poison)
+
+Route Victoire - Niveau 3 : Nosferalto (Poison/Vol), Musteflott (Eau), Onix (Roche/Sol), Charmina (Combat/Psy), Machopeur (Combat), Rhinocorne (Sol/Roche), Kadabra (Psy), Steelix (Acier/Sol)
+Route Victoire - Niveau 4 - CS Éclate-Roc : Gravalanch (Roche/Sol), Onix (Roche/Sol), Chaffreux (Roche), Charmina (Combat/Psy), Magneton (Électrik/Acier), Azumarill (Eau/Fée), Carmache (Eau), Steelix (Acier/Sol), Lamantine (Eau/Glace), Lokhlass (Eau/Glace)
+
+Mont Abrupt - Niveau 3 : Chamallot (Feu/Sol), Rapion (Poison/Insecte), Chartor (Feu), Gravalanch (Roche/Sol), Nosferalto (Poison/Vol), Camerupt (Feu/Sol), Airmure (Acier/Vol), Scorvol (Sol/Vol), Ouisticram (Feu) [Starter], Heatran (Feu/Acier) [Légendaire]
+
+Ile Pleine Lune - Niveau 1 : Korillon (Psy), Eoko (Psy), Pachirisu (Électrik), Melofee (Fée), Evoli (Normal) [Starter], Cresselia (Psy) [Légendaire], Manaphy (Eau) [Légendaire]
+
+Ile Nouvelle Lune - Niveau 2 : Cornèbre (Ténèbres/Vol), Moufouette (Poison/Ténèbres), Feuforeve (Spectre), Fantominus (Spectre/Poison), Corboss (Ténèbres/Vol), Moufflair (Poison/Ténèbres), Darkrai (Ténèbres) [Légendaire], Phione (Eau) [Légendaire]

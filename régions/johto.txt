@@ -1,0 +1,89 @@
+Bourg Geon - Niveau 2 - Super Canne : Tentacool (Eau/Poison), Magicarpe (Eau), Kokiyas (Eau), Loupio (Eau/Électrik), Tentacruel (Eau/Poison), Lanturn (Eau/Électrik)
+
+Routes 29 - Niveau 1 : Roucool (Normal/Vol), Rattata (Normal), Fouinette (Normal), Hoothoot (Normal/Vol)
+
+Ville Griotte - Niveau 3 - Méga canne : Tentacool (Eau/Poison), Magicarpe (Eau), Krabby (Eau), Stari (Eau), Corayon (Eau/Roche), Loupio (Eau/Électrik), Tentacruel (Eau/Poison), Krabboss (Eau)
+
+Route 30 - Niveau 1 : Roucool (Normal/Vol), Rattata (Normal), Hoothoot (Normal/Vol), Chetiflor (Plante/Poison)
+Route 30 - Niveau 1 - Canne : Magicarpe (Eau), Ptitard (Eau), Tetarte (Eau), Krabby (Eau)
+
+Antre Noir - Niveau 2 : Racaillou (Roche/Sol), Gravalanch (Roche/Sol), Nosferapti (Poison/Vol), Nosferalto (Poison/Vol), Insolourdo (Normal), Onix (Roche/Sol)
+Antre Noir - Niveau 1 - Surf : Magicarpe (Eau), Poissirène (Eau), Poissoroy (Eau), Ramoloss (Eau/Psy)
+
+Routes 31 - Niveau 2 : Chenipan (Insecte), Aspicot (Insecte/Poison), Chrysacier (Insecte), Coconfort (Insecte/Poison), Mimigal (Insecte/Poison), Coxy (Insecte/Vol)
+
+Mauville - Niveau 1 - Super canne : Magicarpe (Eau), Poissirène (Eau), Ptitard (Eau), Tetarte (Eau)
+
+Tour Chetiflor - Niveau 1 : Rattata (Normal), Fantominus (Spectre/Poison), Nosferapti (Poison/Vol), Chetiflor (Plante/Poison)
+
+Routes 32 & 33 - Niveau 3 : Roucool (Normal/Vol), Rattata (Normal), Hoothoot (Normal/Vol), Chetiflor (Plante/Poison), Piafabec (Normal/Vol), Granivol (Plante/Vol), Wattouat (Électrik), Axoloto (Eau/Sol)
+Routes 32 & 33 - Niveau 2 - Méga canne : Tentacool (Eau/Poison), Tentacruel (Eau/Poison), Magicarpe (Eau), Ptitard (Eau), Maraiste (Eau/Sol), Qwilfish (Eau/Poison)
+
+Ruines d'Alpha - Niveau 2 : Zarbi (Psy), Fouinette (Normal), Queulorior (Normal), Axoloto (Eau/Sol), Maraiste (Eau/Sol), Natu (Psy/Vol), Raikou (Électrik) [Légendaire]
+
+Caves Jumelles - Niveau 2 : Sabelette (Sol), Racaillou (Roche/Sol), Rattata (Normal), Nosferapti (Poison/Vol), Axoloto (Eau/Sol), Onix (Roche/Sol)
+Caves Jumelles - Niveau 1 - Canne : Magicarpe (Eau), Poissirène (Eau), Axoloto (Eau/Sol), Maraiste (Eau/Sol)
+Caves Jumelles - Niveau 3 - CS Force : Racaillou (Roche/Sol), Rattata (Normal), Nosferapti (Poison/Vol), Rattatac (Normal), Onix (Roche/Sol), Nosferalto (Poison/Vol), Maraiste (Eau/Sol), Lokhlass (Eau/Glace)
+Caves Jumelles - Niveau 2 - Surf : Tentacool (Eau/Poison), Tentacruel (Eau/Poison), Maraiste (Eau/Sol), Krabby (Eau), Stari (Eau), Corayon (Eau/Roche)
+
+Puits Ramoloss - Niveau 2 - Super Canne : Ramoloss (Eau/Psy), Magicarpe (Eau), Poissirène (Eau), Ptitard (Eau), Poissoroy (Eau), Flagadoss (Eau/Psy)
+
+Bois aux Chênes - Niveau 3 : Nosferapti (Poison/Vol), Chenipan (Insecte), Aspicot (Insecte/Poison), Chrysacier (Insecte), Coconfort (Insecte/Poison), Paras (Insecte/Plante), Mystherbe (Plante/Poison), Hoothoot (Normal/Vol), Germignon (Plante) [Starter]
+Bois aux Chênes - Niveau 1 - Canne : Magicarpe (Eau), Ptitard (Eau), Psykokwak (Eau), Akwakwak (Eau)
+Bois aux Chênes - Niveau 2 - CS Coupe : Chrysacier (Insecte), Papillusion (Insecte/Vol), Coconfort (Insecte/Poison), Dardargnan (Insecte/Poison), Noarfang (Normal/Vol), Ortide (Plante/Poison), Célébi (Psy/Plante) [Légendaire] 
+
+Routes 34 & 35 - Niveau 3 : Rattata (Normal), Nidoran ♂ (Poison), Nidoran ♀ (Poison), Soporifik (Psy), Hoothoot (Normal/Vol), Roucool (Normal/Vol), Yanma (Insecte/Vol), Abra (Psy)
+Routes 34 & 35 - Niveau 3 - Surf : Tentacool (Eau/Poison), Magicarpe (Eau), Krabby (Eau), Stari (Eau), Krabboss (Eau), Corayon (Eau/Roche)
+Routes 34 & 35 - Niveau 1 - CS Éclate-Roc : Onix (Roche/Sol), Floravol (Plante/Vol), Snubbull (Normal), Marill (Eau/Fée)
+
+Parc Naturel - Niveau 4 : Chrysacier (Insecte), Coconfort (Insecte/Poison), Tournegrin (Plante), Paras (Insecte/Plante), Mimitoss (Insecte/Poison), Pomdepik (Insecte), Papillusion (Insecte/Vol), Dardargnan (Insecte/Poison), Insecateur (Insecte/Vol), Scarabrute (Insecte)
+Parc Naturel - Niveau 1 - CS Éclate-Roc : Nosferalto (Poison/Vol), Abo (Poison), Parasect (Insecte/Plante), Ecremeuh (Normal)
+
+Routes 36 & 37 - Niveau 3 : Roucool (Normal/Vol), Nidoran ♂ (Poison), Nidoran ♀ (Poison), Hoothoot (Normal/Vol), Goupix (Feu), Caninos (Feu), Cerfrousse (Normal), Simularbre (Roche)
+
+Roselia - Niveau 1 - Méga canne : Magicarpe (Eau), Remoraid (Eau), Ptitard (Eau), Tetarte (Eau)
+
+Tour Cendrée - Niveau 2 : Nosferapti (Poison/Vol), Nosferalto (Poison/Vol), Rattata (Normal), Rattatac (Normal), Smogo (Poison), Magmar (Feu), Héricendre (Feu) [Starter], Entei (Feu) [Légendaire] 
+
+Tour Carillon - Niveau 1 : Rattata (Normal), Rattatac (Normal), Fantominus (Spectre/Poison), Spectrum (Spectre/Poison), Ho-Oh (Feu/Vol) [Légendaire] 
+
+Routes 38 & 39 - Niveau 3 : Rattata (Normal), Rattatac (Normal), Canarticho (Normal/Vol), Snubbull (Normal), Miaouss (Normal), Magneti (Électrik/Acier), Ecremeuh (Normal), Tauros (Normal), Evoli (Normal) [Starter]
+
+Oliville - Niveau 3 - Surf : Tentacool (Eau/Poison), Magicarpe (Eau), Ptitard (Eau), Corayon (Eau/Roche), Krabby (Eau), Krabboss (Eau), Tentacruel (Eau/Poison), Stari (Eau)
+
+Chenaux 40 & 41 - Niveau 4 - Méga Canne : Tentacool (Eau/Poison), Kokiyas (Eau), Stari (Eau), Maraiste (Eau/Sol), Krabboss (Eau), Loupio (Eau/Électrik), Tentacruel (Eau/Poison), Corayon (Eau/Roche), Lanturn (Eau/Électrik), Demanta (Eau/Vol)
+
+Tourb'îles - Niveau 3 - Surf : Tentacool (Eau/Poison), Magicarpe (Eau), Krabby (Eau), Krabboss (Eau), Otaria (Eau), Hypotrempe (Eau), Tentacruel (Eau/Poison), Hypocean (Eau)
+Tourb'îles - Niveau 1 : Nosferapti (Poison/Vol), Nosferalto (Poison/Vol), Krabboss (Eau), Otaria (Eau), Kaiminus (Eau) [Starter], Lugia (Psy/Vol) [Légendaire] 
+
+Irisia - Niveau 3 - Super canne : Krabby (Eau), Magicarpe (Eau), Tentacool (Eau/Poison), Tentacruel (Eau/Poison), Krabboss (Eau), Stari (Eau), Corayon (Eau/Roche), Caratroc (Insecte/Roche)
+
+Parc Safari - Niveau 3 (Zone 1) : Granivol (Plante/Vol), Nidoran ♀ (Poison), Nidoran ♂ (Poison), Floravol (Plante/Vol), Girafarig (Normal/Psy), Kangourex (Normal), Rhinocorne (Sol/Roche), Tauros (Normal)
+Parc Safari - Niveau 3 (Zone 2) : Fouinette (Normal), Fantominus (Spectre/Poison), Roucool (Normal/Vol), Fouinar (Normal), Roucoups (Normal/Vol), Spectrum (Spectre/Poison), Feuforêve (Spectre), Cornèbre (Ténèbres/Vol)
+Parc Safari - Niveau 3 (Zone 3) : Axoloto (Eau/Sol), Mystherbe (Plante/Poison), Ptitard (Eau), Maraiste (Eau/Sol), Tétarte (Eau), Smogo (Poison), Smogogo (Poison), Ortide (Plante/Poison)
+Parc Safari - Niveau 3 (Zone 4) : Racaillou (Roche/Sol), Nosferapti (Poison/Vol), Magneti (Électrik/Acier), Gravalanch (Roche/Sol), Magneton (Électrik/Acier), Qulbutoke (Psy), Embrylex (Roche/Sol), Limagma (Feu)
+Parc Safari - Niveau 3 - Super canne : Magicarpe (Eau), Ptitard (Eau), Poissirène (Eau), Poissoroy (Eau), Psykokwak (Eau), Tétarte (Eau), Akwakwak (Eau), Leviator (Eau/Vol)
+
+Route 42 - Niveau 2 : Piafabec (Normal/Vol), Wattouat (Électrik), Lainergie (Électrik), Ferosinge (Combat), Capumain (Normal), Scarhino (Insecte/Combat)
+
+Mont Creuset - Niveau 3 : Nosferapti (Poison/Vol), Racaillou (Roche/Sol), Rattata (Normal), Rattatac (Normal), Machoc (Combat), Nosferalto (Poison/Vol), Machopeur (Combat), Marill (Eau/Fée)
+Mont Creuset - Niveau 1 - Canne : Magicarpe (Eau), Ptitard (Eau), Poissirène (Eau), Poissoroy (Eau)
+
+Route 47 - Niveau 3 : Hoothoot (Normal/Vol), Piafabec (Normal/Vol), Canarticho (Normal/Vol), Ortide (Plante/Poison), Rapasdepic (Normal/Vol), Rattatac (Normal), Noarfang (Normal/Vol), Ecremeuh (Normal)
+Route 47 - Niveau 3 - Surf : Tentacool (Eau/Poison), Magicarpe (Eau), Kokiyas (Eau), Tentacruel (Eau/Poison), Stari (Eau), Loupio (Eau/Électrik), Lanturn (Eau/Électrik), Otaria (Eau)
+
+Route 48 - Niveau 4 : Granivol (Plante/Vol), Taupiqueur (Sol), Canarticho (Normal/Vol), Ortide (Plante/Poison), Rapasdepic (Normal/Vol), Girafarig (Normal/Psy), Goupix (Feu), Caninos (Feu), Tauros (Normal), Ecremeuh (Normal)
+
+Routes 43 & 44 - Niveau 4 : Mimitoss (Insecte/Poison), Chetiflor (Plante/Poison), Wattouat (Électrik), Roucoups (Normal/Vol), Boustiflor (Plante/Poison), Saquedeneu (Plante), Lainergie (Électrik), Noarfang (Normal/Vol), Girafarig (Normal/Psy), Excelangue (Normal)
+Routes 43 & 44 - Niveau 1 - Méga canne : Ptitard (Eau), Tétarte (Eau), Magicarpe (Eau), Remoraid (Eau)
+
+Lac Colère - Niveau 1 - Surf : Magicarpe (Eau), Leviator (Eau/Vol), Axoloto (Eau/Sol), Maraiste (Eau/Sol)
+
+Route de Glace - Niveau 2 : Nosferapti (Poison/Vol), Nosferalto (Poison/Vol), Cadoizo (Glace/Vol), Lippoutou (Glace/Psy), Marcacrin (Glace/Sol), Farfuret (Ténèbres/Glace)
+
+Routes 45 & 46 - Niveau 3 : Racaillou (Roche/Sol), Piafabec (Normal/Vol), Rattata (Normal), Gravalanch (Roche/Sol), Teddiursa (Normal), Phanpy (Sol), Airmure (Acier/Vol), Scorplane (Sol/Vol)
+
+Grotte Argentée - Niveau 1 : Phanpy (Sol), Teddiursa (Normal), Embrylex (Roche/Sol), Natu (Psy/Vol), Togepi (Normal/Fée) [Starter] 
+Grotte Argentée - Niveau 1 - CS Éclate-Roc : Ymphect (Roche/Sol), Sablaireau (Sol), Akwakwak (Eau), Machopeur (Combat)
+Grotte Argentée - Niveau 3 : Maraiste (Eau/Sol), Parasect (Insecte/Plante), Gravalanch (Roche/Sol), Donphan (Sol), Onix (Roche/Sol), Farfuret (Ténèbres/Glace), Ursaring (Normal), Feuforêve (Spectre)
+Grotte Argentée - Niveau 1 - Surf : Magicarpe (Eau), Leviator (Eau/Vol), Poissirène (Eau), Poissoroy (Eau), Suicune (Eau) [Légendaire] 

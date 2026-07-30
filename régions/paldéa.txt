@@ -1,0 +1,77 @@
+Route de Cuchulaga - Niveau 1 : Gourmelet (Normal), Pohm (Électrik), Passerouge (Normal/Vol), Tissenboule (Insecte)
+
+Caverne de la Crique - Niveau 1 : Manglouton (Normal), Taupiqueur (Sol), Medhyena (Ténèbres), Racaillou (Roche/Sol)
+
+Mer du sud - Niveau 1 - Surf : Dofin (Eau), Lovdisc (Eau), Léviator (Eau/Vol), Békipan (Eau/Vol)
+Mer du sud - Niveau 1 - Super-Canne : Anchwatt (Électrik), Écayon (Eau), Délestin (Eau/Sol), Embrochet (Eau)
+
+Zone sud 1 - Niveau 2 : Granivol (Plante/Vol), Passerouge (Normal/Vol), Lépidonille (Insecte), Gourmelet (Normal), Plumeline (Plante), Axoloto-P (Eau/Sol)
+Zone sud 1 - Niveau 2 - CS Coupe : Fragroin (Normal), Filentrappe (Insecte), Pâtachiot (Fée), Briochien (Fée), Psykokwak (Eau), Taupikeau (Eau/Sol), Chongjian (Plante/Ténèbres) [Légendaire]
+
+Zone Sud 4 - Niveau 3 : Apitrini (Insecte/Vol), Wattouat (Électrik), Gourmelet (Normal), Phanpy (Sol), Pikachu (Électrik), Flabébé (Fée), Spoink (Psy), Grondogue (Combat)
+
+Zone Sud 3 - Niveau 3 : Makuhita (Combat), Spoink (Psy), Pohm (Électrik), Lixy (Électrik), Minisange (Normal/Vol), Lilliterelle (Fée), Caninos (Feu), Craparoi (Insecte)
+
+Zone Sud 5 - Niveau 3 : Psykokwak (Eau), Caninos (Feu), Ramoloss (Eau/Psy), Mucuscule (Dragon), Minisange (Normal/Vol), Khélocrok (Eau/Ténèbres), Crabagarre (Combat/Glace), Coupenotte (Dragon)
+
+Plage secrète - Niveau 1 - Canne : Magicarpe (Eau), Bargantua (Eau), Embrochet (Eau), Poissirène (Eau)
+Plage secrète - Niveau 1 - Surf : Taupikeau (Eau/Sol), Zapétrel (Électrik/Vol), Flamenroule (Feu/Vol), Craparoi (Insecte)
+
+Zone Sud 2 - Niveau 3 : Axoloto-P (Eau/Sol), Verpom (Plante), Grondogue (Combat), Têtampoule (Électrik), Lilliterelle (Fée), Pâtachiot (Fée), Forgerette (Acier/Fée), Gribouraigne (Insecte/Ténèbres)
+
+Les oliveraies - Niveau 1 : Simularbre (Roche), Olivini (Plante/Normal), Apitrini (Insecte/Vol), Tissenboule (Insecte), Evoli (Normal) [Starter]
+
+Zone Sud 6 - Niveau 2 : Théffroi (Roche/Ténèbres), Flotillon (Eau), Flabébé (Fée), Pohmotte (Électrik), Lestombaile (Spectre/Vol), Pimito (Plante/Poison)
+
+Grotte d'Alforneira - Niveau 3 : Lilliterelle (Fée), Sélutin (Fée), Polichombr (Spectre), Tritox (Poison/Feu), Embrylex (Roche/Sol), Insolourdo (Normal), Makuhita (Combat), Solochi (Dragon)
+Grotte d'Alforneira - Niveau 2 - CS Éclate-Roc : Sélutin (Fée), Têtampoule (Électrik), Ténéfix (Ténèbres/Spectre), Feuforêve (Spectre), Flotillon (Eau), Rocabot (Roche)
+
+Désert Rôtissable - Niveau 4 : Mascaïman (Sol/Ténèbres), Furaiglon (Normal/Vol), Hexadron (Insecte), Ferdeter (Plante), Hippopotas (Sol), Dunaja (Dragon/Sol), Cacnéa (Plante), Virovent (Vol), Pimito (Plante/Poison), Léboulérou (Roche/Plante), Chochodile (Feu) [Starter]
+
+Zone Ouest 1 - Niveau 2 : Férosinge (Combat), Fantominus (Spectre/Poison), Voltorbe (Électrik), Flotillon (Eau), Forgerette (Acier/Fée), Pimito (Plante/Poison), Baojian (Ténèbres/Glace) [Légendaire]
+Zone Ouest 1 - Niveau 1 - Surf : Psykokwak (Eau), Mustébouée (Eau), Khélocrok (Eau/Ténèbres), Embrochet (Eau)
+
+Zone Ouest 2 - Niveau 3 : Wattapik (Eau/Électrik), Gambex (Eau), Girafarig (Normal/Psy), Griknot (Dragon/Sol), Motorizard (Dragon/Normal), Tauros-P (Combat), Compagnol (Normal), Forgella (Acier/Fée)
+
+La Grotte aux Colonnes - Niveau 1 : Chovsourir (Vol/Dragon), Méditikka (Combat/Psy), Griknot (Dragon/Sol), Makuhita (Combat)
+
+Mer de l'Ouest - Niveau 3 : Goélise (Eau/Vol), Zapétrel (Électrik/Vol), Mustébouée (Eau), Venalgue (Poison/Eau), Mustéflott (Eau), Lestombaile (Spectre/Vol), Békipan (Eau/Vol), Fulgulairo (Électrik/Vol)
+Mer de l'Ouest - Niveau 1 - Méga-Canne : Qwilfish (Eau/Poison), Léviator (Eau/Vol), Dofin (Eau), Délestin (Eau/Sol)
+
+Zone Ouest 3 - Niveau 3 : Dodoala (Normal), Motorizard (Dragon/Normal), Flamenroule (Feu/Vol), Terracool (Sol), Compagnol (Normal), Grondogue (Combat), Piétacé (Sol/Combat), Toutombe (Sol/Spectre)
+
+Lac Asrol - Niveau 1 : Aéromite (Insecte/Poison), Akwakwak (Eau), Flagadoss (Eau/Psy), Fantyrm (Spectre/Dragon), Coiffeton (Eau/Vol)
+Lac Asrol - Niveau 1 - Surf : Léviator (Eau/Vol), Délestin (Eau/Sol), Nigirigon (Dragon), Oyacata (Eau/Psy)
+
+Forêt Toastée - Niveau 1 : Virovent (Vol), Terracool (Sol), Moufouette (Poison/Ténèbres), Mimantis (Plante), Poussacha (Plante) [Starter], Dinglu (Sol/Ténèbres) [Légendaire]
+Forêt Toastée - Niveau 4 - CS Éclate-Roc : Filentrappe (Insecte), Grondogue (Combat), Foretress (Insecte/Acier), Simularbre (Roche), Cornèbre (Ténèbres/Vol), Léboulérou (Roche/Plante), Gaulet (Plante), Candine (Fée), Terracruel (Sol), Forgelina (Acier/Fée)
+
+Mont Nappé - Niveau 3 : Grelaçon (Glace), Polarhume (Glace), Solochi (Dragon), Toutombe (Sol/Spectre), Piétacé (Sol/Combat), Frigodo (Glace/Dragon), Crabagarre (Combat/Glace), Cryodo (Glace/Vol)
+
+Tunnel Mezcla-Pincho - Niveau 4 : Chartor (Feu), Draby (Dragon), Stalgamin (Glace), Vrombi (Insecte/Vol), Motorizard (Dragon/Normal), Insolourdo (Normal), Tritox (Poison/Feu), Embrylex (Roche/Sol), Tenefix (Ténèbres/Spectre), Frigodo (Glace/Dragon)
+Tunnel Mezcla-Pincho - Niveau 1 - CS Éclate-Roc : Vrombotor (Insecte/Électrik), Amassel (Roche), Cléopsytra (Roche/Psy), Tomberro (Sol/Spectre)
+
+Zone Nord 1 - Niveau 2 : Wimessir (Psy/Spectre), Gambex (Eau), Taupikeau (Eau/Sol), Pohmotte (Électrik), Fantyrm (Spectre/Dragon), Triopikeau (Eau/Sol)
+
+Zone Nord 2 - Niveau 2 : Caninos (Feu), Tag-Tag (Fée), Scalpion (Ténèbres/Acier), Brutalibré (Combat/Vol), Vrombotor (Insecte/Électrik), Solochi (Dragon)
+
+Zone Nord 3 - Niveau 2 : Tournegrin (Plante), Dedenne (Électrik/Fée), Wattapik (Eau/Électrik), Têtampoule (Électrik), Sancoki (Eau), Cabriolaine (Plante)
+
+Cascade Furie - Niveau 2 : Mimantis (Plante), Insécateur (Insecte/Vol), Scalpion (Ténèbres/Acier), Brutalibré (Combat/Vol), Gambex (Eau), Gaulet (Plante), Yuyu (Ténèbres/Feu) [Légendaire]
+
+Mer du Nord - Niveau 3 - Surf : Fulgulairo (Électrik/Vol), Mustebouée (Eau), Vorastérie (Plante), Ecayon (Eau), Gamblast (Eau), Mamanbo (Eau), Bekaglaçon (Glace), Anchwatt (Électrik)
+
+Zone Est 1 - Niveau 3 : Tapatoès (Plante/Vol), Croquine (Plante), Bleuseille (Fée), Verpom (Plante), Terracool (Sol), Tauros-P (Combat), Polichombr (Spectre), Gloupti (Poison)
+
+Zone Est 2 - Niveau 3 : Bacabouh (Plante/Spectre), Marill (Eau/Fée), Tapatoès (Plante/Vol), Verpom (Plante), Magnéti (Électrik/Acier), Sélutin (Fée), Gribouraigne (Insecte/Ténèbres), Ramoloss (Eau/Psy)
+
+Zone Est 3 - Niveau 3 : Ferdeter (Plante), Vrombi (Insecte/Vol), Makuhita (Combat), Voltorbe (Électrik), Dunaja (Dragon/Sol), Draby (Dragon), Charbi (Feu), Virovent (Vol)
+Zone Est 3 - Niveau 2 - CS Force : Hexadron (Insecte), Compagnol (Normal), Flamenroule (Feu/Vol), Ténéfix (Ténèbres/Spectre), Théffroi (Roche/Ténèbres), Charibari (Acier)
+
+Mer de l'est - Niveau 4 - Surf : Flingouste (Eau), Qwilfish (Eau/Poison), Magicarpe (Eau), Kokiyas (Eau), Lovdisc (Eau), Mustebouée (Eau), Embrochet (Eau), Vorastérie (Plante), Denticrisse (Eau), Dofin (Eau)
+
+Bosquet Tagué - Niveau 3 : Mimitoss (Insecte/Poison), Aéromite (Insecte/Poison), Trompignon (Plante/Poison), Gouroutan (Normal/Psy), Quartermac (Normal/Psy), Dodoala (Normal), Grimalin (Spectre/Fée), Tag-Tag (Fée), Charbambin (Feu) [Starter]
+
+Zone Zero - Niveau 4 (Zone 1) : Chevroum (Plante), Tomberro (Sol/Spectre), Farigiraf (Normal/Psy), Deusolourdo (Normal), Donphan (Sol), Rondoudou (Normal/Fée), Gaulet (Plante), Feuforêve (Spectre), Charmina (Combat/Psy), Magnéton (Électrik/Acier), Koraidon (Combat/Dragon) [Légendaire]
+Zone Zero - Niveau 4 (Zone 2) : Colossinge (Combat), Gigansel (Roche), Donphan (Sol), Cadoizo (Glace/Vol), Hariyama (Combat), Solochi (Dragon), Bleuseille (Fée), Ymphect (Roche/Sol), Drackhaus (Dragon), Pachyradjah (Acier), Miraidon (Électrik/Dragon) [Légendaire]
+Zone Zero - Niveau 3 - Surf : Luminéon (Eau), Azumarill (Eau/Fée), Mustéflott (Eau), Maskadra (Insecte), Dofin (Eau), Vorastérie (Plante), Terraiste (Sol), Torgamord (Eau/Insecte), Terapagos (Normal) [Légendaire]
