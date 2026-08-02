@@ -106,3 +106,21 @@ button:hover { background-color: #444; }
 .badge-location { background-color: var(--badge-location); }
 .badge-region { background-color: var(--badge-region); }
 .badge-type { background-color: var(--badge-type); }
+
+/* Couleurs des lieux par région */
+.badge-location {
+    /* Style de base si aucune région n'est reconnue */
+    background-color: #555; 
+    color: white;
+}
+
+.loc-kanto { background-color: #d32f2f; color: white; } /* Rouge (Rouge/Feu) */
+.loc-johto { background-color: #fbc02d; color: black; } /* Or */
+.loc-hoenn { background-color: #388e3c; color: white; } /* Vert (Emeraude) */
+.loc-sinnoh { background-color: #1976d2; color: white; } /* Bleu (Diamant) */
+.loc-unys { background-color: #455a64; color: white; } /* Gris foncé (Noir/Blanc) */
+.loc-kalos { background-color: #7b1fa2; color: white; } /* Violet */
+.loc-alola { background-color: #0288d1; color: white; } /* Bleu océan */
+.loc-galar { background-color: #d81b60; color: white; } /* Magenta/Rose */
+.loc-paldéa { background-color: #e18865; color: white; } /* Orange écarlate */
+.loc-hisui { background-color: #5d4037; color: white; } /* Marron boisé */

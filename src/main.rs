@@ -52,13 +52,28 @@ fn pokemon_card(props: &PokemonCardProps) -> Html {
             </button>
             
             // Rendu conditionnel de la liste des lieux
+            // Rendu conditionnel de la liste des lieux
             {
                 if *show_locations {
                     html! {
                         <div class="locations-list badges" style="margin-top: 10px; display: flex; flex-direction: column; gap: 4px;">
                             {
-                                p.locations.iter().map(|loc| html! {
-                                    <span class="badge badge-location">{ loc }</span>
+                                p.locations.iter().map(|loc| {
+                                    // Extraction dynamique de la région pour la classe CSS
+                                    let mut region_class = String::from("loc-default");
+                                    
+                                    // rfind cherche en partant de la fin (sécuritaire si d'autres parenthèses existent avant)
+                                    if let Some(start) = loc.rfind('(') {
+                                        if let Some(end) = loc.rfind(')') {
+                                            // On extrait, on nettoie les espaces et on met en minuscules
+                                            let region = loc[start + 1..end].trim().to_lowercase();
+                                            region_class = format!("loc-{}", region);
+                                        }
+                                    }
+
+                                    html! {
+                                        <span class={format!("badge badge-location {}", region_class)}>{ loc }</span>
+                                    }
                                 }).collect::<Html>()
                             }
                         </div>
