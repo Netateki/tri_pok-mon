@@ -51,11 +51,14 @@ def main():
                             "category": determine_category(poke_tag),
                             "types": parse_types(poke_types),
                             "locations": [location_name],
-                            "region": region_name
+                            "regions": [region_name]  # BASCULE EN LISTE (avec un 's')
                         }
                     else:
                         if location_name not in pokedex[poke_name]["locations"]:
                             pokedex[poke_name]["locations"].append(location_name)
+                        # On ajoute la région si elle n'est pas déjà connue pour ce Pokémon
+                        if region_name not in pokedex[poke_name]["regions"]:
+                            pokedex[poke_name]["regions"].append(region_name)
 
     final_list = list(pokedex.values())
 

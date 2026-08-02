@@ -23,5 +23,5 @@ pub struct Pokemon {
     pub category: Category,
     pub types: Vec<Type>,
     pub locations: Vec<String>,
-    pub region: String,
+    pub regions: Vec<String>, // BASCULE EN VECTEUR
 }

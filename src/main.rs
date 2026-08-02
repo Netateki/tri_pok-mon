@@ -92,8 +92,8 @@ fn app() -> Html {
     unique_locations.sort();
     unique_locations.dedup();
 
-    // Extraction pour Menu Déroulant (Régions)
-    let mut unique_regions: Vec<String> = poke_list.iter().map(|p| p.region.clone()).collect();
+// Extraction pour Menu Déroulant (Régions)
+    let mut unique_regions: Vec<String> = poke_list.iter().flat_map(|p| p.regions.clone()).collect();
     unique_regions.sort();
     unique_regions.dedup();
 
@@ -104,7 +104,7 @@ fn app() -> Html {
         let match_type_1 = search_type_1.as_str() == "Tous" || p.types.iter().any(|t| format!("{:?}", t) == *search_type_1);
         let match_type_2 = search_type_2.as_str() == "Tous" || p.types.iter().any(|t| format!("{:?}", t) == *search_type_2);
             
-        let match_region = search_region.is_empty() || search_region.as_str() == "Toutes" || p.region == *search_region;
+        let match_region = search_region.is_empty() || search_region.as_str() == "Toutes" || p.regions.contains(&*search_region);
 
         let match_location = search_location.is_empty() || p.locations.iter().any(|loc| loc.to_lowercase().contains(&*search_location));
 
@@ -182,11 +182,16 @@ fn app() -> Html {
                                 <div class="poke-name">{ format!("{}", p.name) }</div>
                                 
                                 <div class="badges">
-                                    // Le format Rust génère dynamiquement la classe CSS (ex: "cat-Starter")
                                     <span class={format!("badge cat-{:?}", p.category)}>
                                         { format!("{:?}", p.category) }
                                     </span>
-                                    <span class="badge badge-region">{ format!("{}", p.region) }</span>
+                                    
+                                    // Affichage dynamique des multiples régions
+                                    {
+                                        p.regions.iter().map(|reg| html! {
+                                            <span class="badge badge-region">{ reg }</span>
+                                        }).collect::<Html>()
+                                    }
                                     
                                     {
                                         p.types.iter().map(|t| html! {
