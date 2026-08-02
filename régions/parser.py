@@ -33,9 +33,11 @@ def main():
                     continue
                 
                 location_part, pokemons_part = line.split(":", 1)
-                location_name = location_part.strip()
+                location_raw = location_part.strip()
                 
-                # Double échappement stricte (\\) pour éviter le SyntaxWarning
+                # Création d'une clé d'espace de nom unique pour le lieu
+                location_name = f"{location_raw} ({region_name})"
+                
                 matches = re.findall("([A-Za-zÀ-ÿ0-9♂♀\\s\\-\\.']+?)\\s*\\(([^)]+)\\)(?:\\s*\\[([^\\]]+)\\])?", pokemons_part)
                 
                 for match in matches:
