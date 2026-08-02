@@ -4,6 +4,74 @@ use models::*;
 use yew::prelude::*;
 use web_sys::{HtmlInputElement, HtmlSelectElement};
 
+// --- NOUVEAU COMPOSANT : POKEMON CARD ---
+#[derive(Properties, PartialEq)]
+pub struct PokemonCardProps {
+    pub pokemon: Pokemon,
+}
+
+#[function_component(PokemonCard)]
+fn pokemon_card(props: &PokemonCardProps) -> Html {
+    // État local isolé pour cette carte spécifique
+    let show_locations = use_state(|| false);
+    let p = &props.pokemon;
+
+    let toggle_locations = {
+        let show_locations = show_locations.clone();
+        Callback::from(move |_| {
+            show_locations.set(!*show_locations);
+        })
+    };
+
+    html! {
+        <li class="poke-card"> 
+            <div class="poke-name">{ format!("{}", p.name) }</div>
+            
+            <div class="badges">
+                <span class={format!("badge cat-{:?}", p.category)}>
+                    { format!("{:?}", p.category) }
+                </span>
+                
+                // Affichage dynamique des multiples régions
+                {
+                    p.regions.iter().map(|reg| html! {
+                        <span class="badge badge-region">{ reg }</span>
+                    }).collect::<Html>()
+                }
+                
+                {
+                    p.types.iter().map(|t| html! {
+                        <span class="badge badge-type">{ format!("{:?}", t) }</span>
+                    }).collect::<Html>()
+                }
+            </div>
+
+            // Bouton de bascule
+            <button class="toggle-locations-btn" onclick={toggle_locations} style="margin-top: 10px; cursor: pointer;">
+                { if *show_locations { "▲ Masquer les lieux" } else { "▼ Afficher les lieux" } }
+            </button>
+            
+            // Rendu conditionnel de la liste des lieux
+            {
+                if *show_locations {
+                    html! {
+                        <div class="locations-list badges" style="margin-top: 10px; display: flex; flex-direction: column; gap: 4px;">
+                            {
+                                p.locations.iter().map(|loc| html! {
+                                    <span class="badge badge-location">{ loc }</span>
+                                }).collect::<Html>()
+                            }
+                        </div>
+                    }
+                } else {
+                    html! {}
+                }
+            }
+        </li> 
+    }
+}
+// ----------------------------------------
+
 #[function_component(App)]
 fn app() -> Html {
     let poke_list = use_state(|| {
@@ -92,12 +160,12 @@ fn app() -> Html {
     unique_locations.sort();
     unique_locations.dedup();
 
-// Extraction pour Menu Déroulant (Régions)
+    // Extraction pour Menu Déroulant (Régions)
     let mut unique_regions: Vec<String> = poke_list.iter().flat_map(|p| p.regions.clone()).collect();
     unique_regions.sort();
     unique_regions.dedup();
 
-    // Filtre croisé à 5 dimensions maintenant
+    // Filtre croisé à 5 dimensions
     let filtered_pokemons: Vec<Pokemon> = poke_list.iter().filter(|p| {
         let match_name = search_name.is_empty() || p.name.to_lowercase().contains(&*search_name);
         
@@ -110,7 +178,6 @@ fn app() -> Html {
 
         let match_category = search_category.is_empty() || search_category.as_str() == "Toutes" || format!("{:?}", p.category) == *search_category;
         
-        // Le && entre match_type_1 et match_type_2 force le Pokémon à posséder les DEUX types sélectionnés.
         match_name && match_type_1 && match_type_2 && match_region && match_location && match_category
     }).cloned().collect();
 
@@ -177,37 +244,9 @@ fn app() -> Html {
             <ul class="poke-grid">
                 {
                     filtered_pokemons.iter().map(|p| {
+                        // Injection du nouveau composant ici
                         html! { 
-                            <li class="poke-card"> 
-                                <div class="poke-name">{ format!("{}", p.name) }</div>
-                                
-                                <div class="badges">
-                                    <span class={format!("badge cat-{:?}", p.category)}>
-                                        { format!("{:?}", p.category) }
-                                    </span>
-                                    
-                                    // Affichage dynamique des multiples régions
-                                    {
-                                        p.regions.iter().map(|reg| html! {
-                                            <span class="badge badge-region">{ reg }</span>
-                                        }).collect::<Html>()
-                                    }
-                                    
-                                    {
-                                        p.types.iter().map(|t| html! {
-                                            <span class="badge badge-type">{ format!("{:?}", t) }</span>
-                                        }).collect::<Html>()
-                                    }
-                                </div>
-
-                                <div class="badges">
-                                    {
-                                        p.locations.iter().map(|loc| html! {
-                                            <span class="badge badge-location">{ loc }</span>
-                                        }).collect::<Html>()
-                                    }
-                                </div>
-                            </li> 
+                            <PokemonCard pokemon={(*p).clone()} />
                         }
                     }).collect::<Html>()
                 }
