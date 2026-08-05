@@ -6407,25 +6407,6 @@
         ]
     },
     {
-        "name": "Tenefix",
-        "category": "Normal",
-        "types": [
-            "Tenebres",
-            "Spectre"
-        ],
-        "locations": [
-            "Grotte Granite - Niveau 3 (Hoenn)",
-            "Pilier Céleste - Niveau 1 (Hoenn)",
-            "Pilier Céleste - Niveau 2 (Hoenn)",
-            "Route Victoire - Niveau 2 - CS Force (Hoenn)",
-            "Tunnel Mezcla-Pincho - Niveau 4 (Paldéa)"
-        ],
-        "regions": [
-            "Hoenn",
-            "Paldéa"
-        ]
-    },
-    {
         "name": "Galekid",
         "category": "Normal",
         "types": [
@@ -11166,10 +11147,16 @@
             "Spectre"
         ],
         "locations": [
+            "Grotte Granite - Niveau 3 (Hoenn)",
+            "Pilier Céleste - Niveau 1 (Hoenn)",
+            "Pilier Céleste - Niveau 2 (Hoenn)",
+            "Route Victoire - Niveau 2 - CS Force (Hoenn)",
             "Grotte d'Alforneira - Niveau 2 - CS Éclate-Roc (Paldéa)",
-            "Zone Est 3 - Niveau 2 - CS Force (Paldéa)"
+            "Zone Est 3 - Niveau 2 - CS Force (Paldéa)",
+            "Tunnel Mezcla-Pincho - Niveau 4 (Paldéa)"
         ],
         "regions": [
+            "Hoenn",
             "Paldéa"
         ]
     },
